@@ -17,42 +17,96 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+[Kaixuan Li](https://kaixuanli-ecnu.github.io/) is now a Ph.D. candidate in Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, he received his B.S. degree in Software Engineering Institute from ECNU in 2020. 
+He is also a visiting Ph.D. student and research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2024.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interests revolve around the domains of Software Security, encompassing various aspects such as **Open Source Security** and **Smart Contract Security**. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+* April 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://conf.researchr.org/home/fse-2024)
+* July 2023: Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ESEC/FSE-2023-blue?style=flat-square)](https://2023.esec-fse.org/details/fse-2023-research-papers/21/Comparison-and-Evaluation-on-Static-Application-Security-Testing-SAST-Tools-for-Java)
+* July 2023: Our paper "Demystifying the Composition and Code Reuse in Solidity Smart Contracts" was accepted by ESEC/FSE 2023.![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ESEC/FSE-2023-blue?style=flat-square)](https://2023.esec-fse.org/details/fse-2023-research-papers/29/Demystifying-the-Composition-and-Code-Reuse-in-Solidity-Smart-Contracts)
+* January 2023: Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)](https://2023.issta.org/details/issta-2023-technical-papers/16/A-Comprehensive-Study-on-Quality-Assurance-Tools-for-Java)
+
+
 
 # 📝 Publications 
+^ indicates equal contribution.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen, Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?, In Proceedings of ACM SIGSOFT Symposium on the Foundation of Software Engineering (FSE), Accepted, 2024.
+- **Kaixuan Li**, Sen Chen, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, Yixiang Chen "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java", United States, In Proceedings of the 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering; 3 December-9 December 2023, Pages:921–933, https://doi.org/10.1145/3611643.3616262.
+- Kairan Sun, Zhengzi Xu, Chengwei Liu, **Kaixuan Li**, and Yang Liu. 2023. Demystifying the Composition and Code Reuse in Solidity Smart Contracts. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023). Association for Computing Machinery, New York, NY, USA, 796–807. https://doi.org/10.1145/3611643.3616270
+- Han Liu, Sen Chen, Ruitao Feng, Chengwei Liu, **Kaixuan Li**, Zhengzi Xu, Liming Nie, Yang Liu, and Yixiang Chen, "A Comprehensive Study on Quality Assurance Tools for Java", United States, In Proceedings of the 32nd International Symposium on Software Testing and Analysis; 17 July-21 July 2023, Pages:285–297, https://doi.org/10.1145/3597926.3598056.
+- 刘晗, 李凯旋, 陈仪香. "人工智能系统可信性度量评估研究综述." 软件学报 33 (2022): 1-19.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.06 (expected)*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
+- *2023.09 - 2024.12*, Research Assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
+- *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
+- *2016.09 - 2020.06*, Bachelor of Software Engineering, Software Engineering Institute, East China Normal University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📚 Academic Services
+
+## Reviewer:
+* [Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
+* [WWW 2024](https://www2024.thewebconf.org/)
+* [Cybersecurity](https://cybersecurity.springeropen.com/)
+
+
+## Junior Program Committee Member:
+
+* [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
+
+## Sub-reviewer:
+
+* [ISSTA 2024](https://2024.issta.org/track/issta-2024-papers)
+* [ICSE 2024](https://conf.researchr.org/track/icse-2024/icse-2024-research-track?)
+* [ASE 2023](https://conf.researchr.org/home/ase-2023)
+* [ESEC/FSE 2023](https://2023.esec-fse.org/)
+* [ASE 2022](https://conf.researchr.org/home/ase-2022)
+* [Frontiers of Computer Science](https://www.springer.com/journal/11704)
+* [ESTC 2022](https://estc2022.github.io/index.html)
+* [AILA 2023](http://ailasym.com/AILA2023/index.html)
+* [AILA 2022](http://ailasym.com/AILA2022/index.html)
+* [Journal of Software](https://www.jos.org.cn/jos/home)
+
+
+# 🎖 Honors and Awards
+* Merit Student of East China Normal University, 2022-2023.
+* Visiting Ph.D. Student Scholarship of China Scholarship Council, 2022-2023.
+* Merit Student of East China Normal University, 2021-2022.
+* "Boke City" Merit Student Scholarship, 2021-2022.
+* Merit Student of East China Normal University, 2020-2021.
+* "HUAWEI CUP" The 18th China Post-Graduate Mathematical Contest in Modelling 3rd Prize, 2021.
+* "HUAWEI CUP" The 17th China Post-Graduate Mathematical Contest in Modelling 3rd Prize, 2020.
+---
+* Outstanding Graduate of Shanghai, 2020.
+* Merit Award for "YOOZOO CUP" Shanghai University Programming Invitational Tournament, 2018.
+* "ZHIXING CUP" Shanghai Under-Graduate Social Practice Project 2nd Prize, 2017.
+* Advanced Individual Award for Social Practice of East China Normal University, 2017.
+* Best Project Award for Social Practice in East China Normal University, 2017.
+* People's Finance Bank Scholarship, 2017.
+
+
+
+<style>
+    #clustrmaps-container {
+        /* transform: scale(0.5); */
+        transform-origin: top left;
+        width: 200px; /* Adjust this value based on your desired width */
+        height: 125px; /* Adjust this value based on your desired height */
+        overflow: hidden; /* This will hide any overflow content */
+        
+        /* Centering the container horizontally */
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+</style>
+
+<div id="clustrmaps-container">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xK73SrbAAKlYLUs8vmvb2TVShV7x81eqT_FAU02nk90&cl=ffffff&w=a"></script>
+</div>
