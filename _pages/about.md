@@ -82,7 +82,6 @@ His research interests revolve around the domains of Software Security, encompas
 * Merit Student of East China Normal University, 2020-2021.
 * "HUAWEI CUP" The 18th China Post-Graduate Mathematical Contest in Modelling 3rd Prize, 2021.
 * "HUAWEI CUP" The 17th China Post-Graduate Mathematical Contest in Modelling 3rd Prize, 2020.
----
 * Outstanding Graduate of Shanghai, 2020.
 * Merit Award for "YOOZOO CUP" Shanghai University Programming Invitational Tournament, 2018.
 * "ZHIXING CUP" Shanghai Under-Graduate Social Practice Project 2nd Prize, 2017.
@@ -97,7 +96,7 @@ His research interests revolve around the domains of Software Security, encompas
         /* transform: scale(0.5); */
         transform-origin: top left;
         width: 200px; /* Adjust this value based on your desired width */
-        height: 125px; /* Adjust this value based on your desired height */
+        height: 120px; /* Adjust this value based on your desired height */
         overflow: hidden; /* This will hide any overflow content */
         
         /* Centering the container horizontally */
