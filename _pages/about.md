@@ -33,13 +33,13 @@ His research interests revolve around the domains of Software Security, encompas
 
 
 # 📝 Publications 
-^ indicates equal contribution.
+<!-- ^ indicates equal contribution. -->
 
 - **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen, Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?, In Proceedings of ACM SIGSOFT Symposium on the Foundation of Software Engineering (FSE), Accepted, 2024.
 - **Kaixuan Li**, Sen Chen, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, Yixiang Chen "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java", United States, In Proceedings of the 31th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering; 3 December-9 December 2023, Pages:921–933, https://doi.org/10.1145/3611643.3616262.
 - Kairan Sun, Zhengzi Xu, Chengwei Liu, **Kaixuan Li**, and Yang Liu. 2023. Demystifying the Composition and Code Reuse in Solidity Smart Contracts. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023). Association for Computing Machinery, New York, NY, USA, 796–807. https://doi.org/10.1145/3611643.3616270
 - Han Liu, Sen Chen, Ruitao Feng, Chengwei Liu, **Kaixuan Li**, Zhengzi Xu, Liming Nie, Yang Liu, and Yixiang Chen, "A Comprehensive Study on Quality Assurance Tools for Java", United States, In Proceedings of the 32nd International Symposium on Software Testing and Analysis; 17 July-21 July 2023, Pages:285–297, https://doi.org/10.1145/3597926.3598056.
-- 刘晗, 李凯旋, 陈仪香. "人工智能系统可信性度量评估研究综述." 软件学报 33 (2022): 1-19.
+- 刘晗, **李凯旋**, 陈仪香. "人工智能系统可信性度量评估研究综述." 软件学报 33 (2022): 1-19.
 
 # 📖 Educations
 - *2020.09 - 2025.06 (expected)*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
