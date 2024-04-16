@@ -96,7 +96,7 @@ His research interests revolve around the domains of Software Security, encompas
         /* transform: scale(0.5); */
         transform-origin: top left;
         width: 200px; /* Adjust this value based on your desired width */
-        height: 120px; /* Adjust this value based on your desired height */
+        height: 150px; /* Adjust this value based on your desired height */
         overflow: hidden; /* This will hide any overflow content */
         
         /* Centering the container horizontally */
