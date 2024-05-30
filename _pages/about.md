@@ -76,6 +76,7 @@ His research interests revolve around Trustworthy Software, encompassing various
 
 
 # 🎖 Honors and Awards
+* "Student Technological Excellence" Award @SEI, East China Normal University, 2024.
 * Merit Student of East China Normal University, 2022-2023.
 * Visiting Ph.D. Student Scholarship of China Scholarship Council, 2022-2023.
 * Merit Student of East China Normal University, 2021-2022.
