@@ -25,7 +25,7 @@ His research interests revolve around Trustworthy Software, encompassing various
 
 # 🔥 News
 
-* June 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an ACM SIGSOFT Distinguished Paper award! :trophy: [Paper Preprint](https://arxiv.org/pdf/2404.18186)
+* June 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an [ACM SIGSOFT Distinguished Paper award](https://2024.esec-fse.org/info/awards)! 🏆
 * May 2024: Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/Usenix_Security-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24)
 * May 2024: One of our research papers was accepted by ISSTA 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)](https://2024.issta.org/)
 * April 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://conf.researchr.org/home/fse-2024)
