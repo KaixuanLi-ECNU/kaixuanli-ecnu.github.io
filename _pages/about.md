@@ -40,7 +40,7 @@ His research interests revolve around Trustworthy Software, encompassing various
 - *(Preprint)* Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [https://arxiv.org/pdf/2403.16032.pdf](https://arxiv.org/pdf/2403.16032.pdf)
 - *(Preprint)* Lyueye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. "Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts." arXiv preprint arXiv:2403.06838 (2024), [https://arxiv.org/pdf/2403.06838.pdf](https://arxiv.org/pdf/2403.06838.pdf)
 - *(Usenix 2024, CCF-A)* Han Liu, Daoyuan Wu, Yuqiang Sun, Haijun Wang, **Kaixuan Li**, Yang Liu, and Yixiang Chen. "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts". 
-- *(FSE 2024, CCF-A)* **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen. 2024. Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?. Proc. ACM Softw. Eng. 1, FSE, Article 65 (July 2024), 24 pages. [https://doi.org/10.1145/3660772](https://doi.org/10.1145/3660772). [Preprint](https://arxiv.org/pdf/2404.18186). [<font color ="red"> ACM SIGSOFT Distinguished Paper award </font>](https://2024.esec-fse.org/info/awards)
+- *(FSE 2024, CCF-A)* **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen. 2024. Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?. Proc. ACM Softw. Eng. 1, FSE, Article 65 (July 2024), 24 pages. [https://doi.org/10.1145/3660772](https://doi.org/10.1145/3660772). [Preprint](https://arxiv.org/pdf/2404.18186). [<font color ="red"> ACM SIGSOFT Distinguished Paper award </font>](https://2024.esec-fse.org/info/awards) 🏆
 - *(ESEC/FSE 2023, CCF-A)* **Kaixuan Li**^, Sen Chen^, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, and Yixiang Chen. "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java". United States, In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023); 3 December-9 December 2023, Pages:921–933, [https://doi.org/10.1145/3611643.3616262](https://doi.org/10.1145/3611643.3616262). 
 - *(ESEC/FSE 2023, CCF-A)* Kairan Sun, Zhengzi Xu, Chengwei Liu, **Kaixuan Li**, and Yang Liu. 2023. "Demystifying the Composition and Code Reuse in Solidity Smart Contracts." United States, In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023); 3 December-9 December 2023, Pages:796-807, [https://dl.acm.org/doi/pdf/10.1145/3611643.3616270](https://dl.acm.org/doi/pdf/10.1145/3611643.3616270).
 - *(ISSTA 2023, CCF-A)* Han Liu, Sen Chen, Ruitao Feng, Chengwei Liu, **Kaixuan Li**, Zhengzi Xu, Liming Nie, Yang Liu, and Yixiang Chen. "A Comprehensive Study on Quality Assurance Tools for Java", United States, In Proceedings of the 32nd International Symposium on Software Testing and Analysis (ISSTA); 17 July-21 July 2023, Pages:285–297, [https://doi.org/10.1145/3597926.3598056](https://doi.org/10.1145/3597926.3598056).
@@ -48,7 +48,7 @@ His research interests revolve around Trustworthy Software, encompassing various
 
 # 📖 Educations
 - *2020.09 - 2025.06 (expected)*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
-- *2023.09 - 2024.12*, Research Assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
+- *2023.09 - 2025.04*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
 - *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
 - *2016.09 - 2020.06*, Bachelor of Software Engineering, Software Engineering Institute, East China Normal University.
 
@@ -57,18 +57,19 @@ His research interests revolve around Trustworthy Software, encompassing various
 
 ## Reviewer:
 * [Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
-* [WWW 2024](https://www2024.thewebconf.org/)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
-
 
 ## Junior Program Committee Member:
 
 * [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
 
-## Sub-reviewer:
-
+## Co-reviewer:
+* [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)
+* [S&P 2025](https://www.ieee-security.org/TC/SP2025/cfpapers.html)
+* [CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html)
 * [ISSTA 2024](https://2024.issta.org/track/issta-2024-papers)
 * [ICSE 2024](https://conf.researchr.org/track/icse-2024/icse-2024-research-track?)
+* [WWW 2024](https://www2024.thewebconf.org/)
 * [ASE 2023](https://conf.researchr.org/home/ase-2023)
 * [ESEC/FSE 2023](https://2023.esec-fse.org/)
 * [ASE 2022](https://conf.researchr.org/home/ase-2022)
