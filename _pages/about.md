@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Kaixuan Li](https://kaixuanli-ecnu.github.io/) is now a Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, he received his B.S. degree in Software Engineering Institute from ECNU in 2020. 
-He is also a visiting Ph.D. student and research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2025.
+[Kaixuan Li](https://kaixuanli-ecnu.github.io/) is now a Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, I received my B.S. degree in Software Engineering Institute from ECNU in 2020. 
+I am also a visiting Ph.D. student and research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2025.
 
-His research interests revolve around Trustworthy Software, encompassing various aspects such as **Open Source Security** and **Smart Contract Security**. 
+My research interests revolve around Trustworthy Software, encompassing various aspects such as **Open Source Security** and **Smart Contract Security**. 
 
 
 # 🔥 News
-
+* July 2024: I am selected as a Shadow Research Track Program Committee Member within ICSE 2025!
 * July 2024: Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)](https://2024.issta.org/)
 * June 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an [ACM SIGSOFT Distinguished Paper award](https://2024.esec-fse.org/info/awards)! 🏆
 * May 2024: Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/Usenix_Security-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24)
@@ -59,6 +59,9 @@ His research interests revolve around Trustworthy Software, encompassing various
 ## Reviewer:
 * [Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
+
+## Shadow Research Track Program Committee Member:
+* [ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)
 
 ## Junior Program Committee Member:
 
