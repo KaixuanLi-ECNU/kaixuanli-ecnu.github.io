@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Kaixuan Li](https://kaixuanli-ecnu.github.io/) is now a Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, I received my B.S. degree in Software Engineering Institute from ECNU in 2020. 
+[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear) is now a final-year Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, I received my B.S. degree in Software Engineering Institute from ECNU in 2020. 
 I am also a visiting Ph.D. student and research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2025.
 
-My research interests revolve around Trustworthy Software, encompassing various aspects such as **Open Source Security** and **Smart Contract Security**. 
+My research focuses on Trustworthy Software, particularly in areas such as **Open Source Security** and **Smart Contract Security**. 
+My ongoing research explores advanced program analysis and the application of large language models (LLMs) for enhancing software security. 
 
+I am actively seeking opportunities for **collaboration** and am interested in **postdoctoral positions** starting in 2025. If you are looking for a dedicated and passionate researcher to contribute to and advance these critical areas, please feel free to contact me.
 
 # 🔥 News
 * July 2024: I am selected as a Shadow Research Track Program Committee Member within ICSE 2025!
@@ -60,11 +62,8 @@ My research interests revolve around Trustworthy Software, encompassing various 
 * [Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
 
-## Shadow Research Track Program Committee Member:
+## Shadow/Junior Program Committee Member:
 * [ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)
-
-## Junior Program Committee Member:
-
 * [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
 
 ## Co-reviewer:
@@ -85,6 +84,7 @@ My research interests revolve around Trustworthy Software, encompassing various 
 
 
 # 🎖 Honors and Awards
+* ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
 * "Student Technological Excellence" Award (学生科技英才) @SEI, East China Normal University, 2024.
 * Merit Student of East China Normal University, 2022-2023.
 * Visiting Ph.D. Student Scholarship of China Scholarship Council, 2022-2023.
