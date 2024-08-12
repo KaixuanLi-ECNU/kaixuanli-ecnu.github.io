@@ -78,15 +78,15 @@ I am actively seeking opportunities for **collaboration** and am interested in *
 * [ASE 2022](https://conf.researchr.org/home/ase-2022)
 * [Frontiers of Computer Science](https://www.springer.com/journal/11704)
 * [ESTC 2022](https://estc2022.github.io/index.html)
-* [AILA 2023](http://ailasym.com/AILA2023/index.html)
-* [AILA 2022](http://ailasym.com/AILA2022/index.html)
 * [Journal of Software](https://www.jos.org.cn/jos/home)
 
 
 # 🎖 Honors and Awards
 * ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
+* ACM Student Travel Grants for FSE 2024, 2024.
 * "Student Technological Excellence" Award (学生科技英才) @SEI, East China Normal University, 2024.
 * Merit Student of East China Normal University, 2022-2023.
+* ACM Student Travel Grants for ESEC/FSE 2023, 2023.
 * Visiting Ph.D. Student Scholarship of China Scholarship Council, 2022-2023.
 * Merit Student of East China Normal University, 2021-2022.
 * "Boke City" Merit Student Scholarship, 2021-2022.
@@ -95,9 +95,6 @@ I am actively seeking opportunities for **collaboration** and am interested in *
 * "HUAWEI CUP" The 17th China Post-Graduate Mathematical Contest in Modelling 3rd Prize, 2020.
 * Outstanding Graduate of Shanghai, 2020.
 * Merit Award for "YOOZOO CUP" Shanghai University Programming Invitational Tournament, 2018.
-* "ZHIXING CUP" Shanghai Undergraduate Social Practice Project 2nd Prize, 2017.
-* Advanced Individual Award for Social Practice of East China Normal University, 2017.
-* Best Project Award for Social Practice in East China Normal University, 2017.
 * People's Finance Bank Scholarship, 2017.
 
 
