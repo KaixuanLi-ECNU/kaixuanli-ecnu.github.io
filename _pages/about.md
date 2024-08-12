@@ -25,6 +25,9 @@ My ongoing research explores advanced program analysis and the application of la
 
 I am actively seeking opportunities for **collaboration** and am interested in **postdoctoral positions** starting in 2025. If you are looking for a dedicated and passionate researcher to contribute to and advance these critical areas, please feel free to contact me.
 
+💬 kaixuanli AT stu.ecnu.edu.cn
+
+
 # 🔥 News
 * July 2024: I am selected as a Shadow Research Track Program Committee Member within ICSE 2025!
 * July 2024: Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)](https://2024.issta.org/)
