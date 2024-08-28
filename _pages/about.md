@@ -20,10 +20,7 @@ redirect_from:
 [Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") is now a final-year Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, I received my B.S. degree in Software Engineering Institute from ECNU in 2020. 
 I am also a visiting Ph.D. student and research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2025.
 
-My research focuses on Trustworthy Software, particularly in areas such as **Open Source Security** and **Smart Contract Security**. 
-My ongoing research explores advanced program analysis and the application of large language models (LLMs) for enhancing software security. 
-
-I am actively seeking opportunities for **collaboration** and am interested in **postdoctoral positions** starting in 2025. If you are looking for a dedicated and passionate researcher to contribute to and advance these critical areas, please feel free to contact me.
+My research focuses on Trustworthy Software, particularly in areas such as **Open Source Security** and **Smart Contract Security** by exploring advanced program analysis and applying large language models (LLMs) to enhance software security. 
 
 💬 kaixuanli AT stu.ecnu.edu.cn
 
