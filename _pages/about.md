@@ -30,20 +30,20 @@ I am actively seeking opportunities for **collaboration** and am interested in *
 
 # 🔥 News
 * July 2024: I am selected as a Shadow Research Track Program Committee Member within ICSE 2025!
-* July 2024: Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)](https://2024.issta.org/)
+* July 2024: Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024. 
 * June 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an [ACM SIGSOFT Distinguished Paper award](https://2024.esec-fse.org/info/awards)! 🏆
-* May 2024: Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/Usenix_Security-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24)
-* April 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://conf.researchr.org/home/fse-2024)
-* July 2023: Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ESEC/FSE-2023-blue?style=flat-square)](https://2023.esec-fse.org/details/fse-2023-research-papers/21/Comparison-and-Evaluation-on-Static-Application-Security-Testing-SAST-Tools-for-Java)
-* July 2023: Our paper "Demystifying the Composition and Code Reuse in Solidity Smart Contracts" was accepted by ESEC/FSE 2023. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ESEC/FSE-2023-blue?style=flat-square)](https://2023.esec-fse.org/details/fse-2023-research-papers/29/Demystifying-the-Composition-and-Code-Reuse-in-Solidity-Smart-Contracts)
-* January 2023: Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023. ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)](https://2023.issta.org/details/issta-2023-technical-papers/16/A-Comprehensive-Study-on-Quality-Assurance-Tools-for-Java)
+* May 2024: Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024.
+* April 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024.
+* July 2023: Our paper "Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java" was accepted by ESEC/FSE 2023. 
+* July 2023: Our paper "Demystifying the Composition and Code Reuse in Solidity Smart Contracts" was accepted by ESEC/FSE 2023.
+* January 2023: Our paper "A Comprehensive Study on Quality Assurance Tools for Java" was accepted by ISSTA 2023. 
 
 
 
 # 📝 Selected Publications 
 ^ indicates equal contribution.
 - *(ISSTA 2024, CCF-A)* **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen. 2024. PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software. In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’24), September 16–20, 2024, Vienna, Austria. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3650212.3680305. [https://arxiv.org/pdf/2407.17065](https://arxiv.org/pdf/2407.17065)
-- *(Preprint)* Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [https://arxiv.org/pdf/2403.16032.pdf](https://arxiv.org/pdf/2403.16032.pdf)
+- *(Preprint)* Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [Preprint](https://arxiv.org/pdf/2403.16032.pdf)
 - *(Preprint)* Lyueye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. "Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts." arXiv preprint arXiv:2403.06838 (2024), [https://arxiv.org/pdf/2403.06838.pdf](https://arxiv.org/pdf/2403.06838.pdf)
 - *(Usenix Security 2024, CCF-A)* Han Liu, Daoyuan Wu, Yuqiang Sun, Haijun Wang, **Kaixuan Li**, Yang Liu, and Yixiang Chen. 2024. "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts". In Proceedings of the 2024 USENIX Security Symposium (USENIX Security'24).
 - *(FSE 2024, CCF-A)* **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen. 2024. Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?. Proc. ACM Softw. Eng. 1, FSE, Article 65 (July 2024), 24 pages. [https://doi.org/10.1145/3660772](https://doi.org/10.1145/3660772). [Preprint](https://arxiv.org/pdf/2404.18186). [<font color ="red"> ACM SIGSOFT Distinguished Paper award </font>](https://2024.esec-fse.org/info/awards) 🏆
@@ -54,7 +54,7 @@ I am actively seeking opportunities for **collaboration** and am interested in *
 
 # 📖 Educations
 - *2020.09 - 2025.06 (expected)*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
-- *2023.09 - 2025.04*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
+- *2023.09 - present*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
 - *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
 - *2016.09 - 2020.06*, Bachelor of Software Engineering, Software Engineering Institute, East China Normal University.
 
@@ -66,12 +66,12 @@ I am actively seeking opportunities for **collaboration** and am interested in *
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
 
 ## Shadow/Junior Program Committee Member:
-* [ICSE 2025](https://conf.researchr.org/track/icse-2025/icse-2025-shadow-research-track-program-committee)
+* [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc)
 * [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
 
 ## Co-reviewer:
 * [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)
-* [S&P 2025](https://www.ieee-security.org/TC/SP2025/cfpapers.html)
+* [IEEE S&P 2025](https://www.ieee-security.org/TC/SP2025/cfpapers.html)
 * [CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html)
 * [ISSTA 2024](https://2024.issta.org/track/issta-2024-papers)
 * [ICSE 2024](https://conf.researchr.org/track/icse-2024/icse-2024-research-track?)
