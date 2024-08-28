@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear) is now a final-year Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, I received my B.S. degree in Software Engineering Institute from ECNU in 2020. 
+[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") is now a final-year Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, I received my B.S. degree in Software Engineering Institute from ECNU in 2020. 
 I am also a visiting Ph.D. student and research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2025.
 
 My research focuses on Trustworthy Software, particularly in areas such as **Open Source Security** and **Smart Contract Security**. 
@@ -86,19 +86,14 @@ I am actively seeking opportunities for **collaboration** and am interested in *
 
 # 🎖 Honors and Awards
 * ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
-* ACM Student Travel Grants for FSE 2024, 2024.
 * "Student Technological Excellence" Award (学生科技英才) @SEI, East China Normal University, 2024.
-* Merit Student of East China Normal University, 2022-2023.
-* ACM Student Travel Grants for ESEC/FSE 2023, 2023.
 * Visiting Ph.D. Student Scholarship of China Scholarship Council, 2022-2023.
+* Merit Student of East China Normal University, 2022-2023.
 * Merit Student of East China Normal University, 2021-2022.
-* "Boke City" Merit Student Scholarship, 2021-2022.
 * Merit Student of East China Normal University, 2020-2021.
 * "HUAWEI CUP" The 18th China Post-Graduate Mathematical Contest in Modelling 3rd Prize, 2021.
 * "HUAWEI CUP" The 17th China Post-Graduate Mathematical Contest in Modelling 3rd Prize, 2020.
 * Outstanding Graduate of Shanghai, 2020.
-* Merit Award for "YOOZOO CUP" Shanghai University Programming Invitational Tournament, 2018.
-* People's Finance Bank Scholarship, 2017.
 
 
 
