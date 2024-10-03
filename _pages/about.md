@@ -26,8 +26,9 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 
 # 🔥 News
+* September 2024: I am invited as a PC member @MSR4P&S 2025, co-located with SANAR 2025. Welcome to submit your papers!
 * September 2024: I won the National Scholarship of Doctoral Students (China), thanks for the recognition and support from the faculty and students@SEI, ECNU!
-* July 2024: I am selected as a Shadow Research Track Program Committee Member within ICSE 2025! 
+* July 2024: I am selected as a Shadow PC member within ICSE 2025, welcome to submit your papers!
 * July 2024: Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024!
 * June 2024: Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an [ACM SIGSOFT Distinguished Paper award](https://2024.esec-fse.org/info/awards)! 🏆
 * May 2024: Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024.
@@ -56,9 +57,10 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 # 📚 Academic Services
 
-## Reviewer:
+## Reviewer/Program Committee Member:
 * [Transactions on Software Engineering and Methodology](https://dl.acm.org/journal/tosem)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
+* [MSR4P&S 2025](https://msr4ps.github.io/)
 
 ## Shadow/Junior Program Committee Member:
 * [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc)
