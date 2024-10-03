@@ -26,7 +26,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 
 # 🔥 News
-* September 2024: I am invited as a PC member @MSR4P&S 2025, co-located with SANAR 2025. Welcome to submit your papers!
+* October 2024: I am invited as a PC member @MSR4P&S 2025, co-located with SANAR 2025. Welcome to submit your papers!
 * September 2024: I won the National Scholarship of Doctoral Students (China), thanks for the recognition and support from the faculty and students@SEI, ECNU!
 * July 2024: I am selected as a Shadow PC member within ICSE 2025, welcome to submit your papers!
 * July 2024: Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024!
