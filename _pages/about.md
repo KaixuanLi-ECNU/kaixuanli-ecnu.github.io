@@ -26,6 +26,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 
 # 🔥 News
+* October 2024: Our paper "A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android" was accepted by TSE, congrats to Jingyun!
 * October 2024: I am invited as a PC member @MSR4P&S 2025, co-located with SANAR 2025. Welcome to submit your papers!
 * September 2024: I won the National Scholarship of Doctoral Students (China), thanks for the recognition and support from the faculty and students@SEI, ECNU!
 * July 2024: I am selected as a Shadow PC member within ICSE 2025, welcome to submit your papers!
@@ -38,7 +39,8 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 # 📝 Selected Publications 
 ^ indicates equal contribution.
-- *(ISSTA 2024, CCF-A)* **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen. 2024. PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software. In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA ’24), September 16–20, 2024, Vienna, Austria. ACM, New York, NY, USA, 13 pages. [https://doi.org/10.1145/3650212.3680305](https://doi.org/10.1145/3650212.3680305).
+- *(TSE 2024, CCF-A)* Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie. 2024. A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android. IEEE Transactions on Software Engineering.
+- *(ISSTA 2024, CCF-A)* **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen. "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software." In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, pp. 590-602. 2024. [https://doi.org/10.1145/3650212.3680305](https://doi.org/10.1145/3650212.3680305).
 - *(Preprint)* Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [Preprint](https://arxiv.org/pdf/2403.16032.pdf)
 - *(Preprint)* Lyueye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. "Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts." arXiv preprint arXiv:2403.06838 (2024), [Preprint](https://arxiv.org/pdf/2403.06838.pdf)
 - *(Usenix Security 2024, CCF-A)* Han Liu, Daoyuan Wu, Yuqiang Sun, Haijun Wang, **Kaixuan Li**, Yang Liu, and Yixiang Chen. 2024. "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts". In Proceedings of the 2024 USENIX Security Symposium (USENIX Security'24).
