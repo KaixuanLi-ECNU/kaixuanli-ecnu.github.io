@@ -69,6 +69,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 * [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
 
 ## Co-reviewer:
+* [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)
 * [ASE 2024](https://conf.researchr.org/track/ase-2024/ase-2024-research)
 * [IEEE S&P 2025](https://www.ieee-security.org/TC/SP2025/cfpapers.html)
 * [CCS 2024](https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html)
