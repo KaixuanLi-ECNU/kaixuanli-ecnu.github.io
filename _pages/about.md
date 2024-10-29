@@ -39,7 +39,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 # 📝 Selected Publications 
 ^ indicates equal contribution.
-- *(TSE 2024, CCF-A)* Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie. 2024. A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android. IEEE Transactions on Software Engineering.
+- *(TSE 2024, CCF-A)* Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie. 2024. A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android. IEEE Transactions on Software Engineering. [Preprint: http://arxiv.org/abs/2410.20740](http://arxiv.org/abs/2410.20740).
 - *(ISSTA 2024, CCF-A)* **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen. "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software." In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, pp. 590-602. 2024. [https://doi.org/10.1145/3650212.3680305](https://doi.org/10.1145/3650212.3680305).
 - *(CAAI)* **Kaixuan Li** and Yixiang Chen. Hybrid Artificial Intelligence: Logic Reasoning for Large Language Models (混成式人工智能：面向大语言模型的逻辑推理), 人工智能学会通讯, 2024 14(7): 03-07 (In Chinese). [https://book.yunzhan365.com/poui/tcew/mobile/index.html](https://book.yunzhan365.com/poui/tcew/mobile/index.html).
 - *(Preprint)* Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [Preprint](https://arxiv.org/pdf/2403.16032.pdf)
