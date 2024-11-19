@@ -86,6 +86,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 
 # 🎖 Honors and Awards
+* Merit Student of East China Normal University, 2023-2024.
 * National Scholarship, Ministry of Education, China, 2024.
 * ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
 * "Student Technological Excellence" Award (学生科技英才) @SEI, East China Normal University, 2024.
