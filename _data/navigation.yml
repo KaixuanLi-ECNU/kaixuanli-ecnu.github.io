@@ -10,9 +10,12 @@ main:
     url: "/#-selected-publications"
 
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
+  - title: "Teaching"
+    URL: "/#-teaching"
 
+    
   - title: "Academic Services"
     url: "/#-academic-services"
 
