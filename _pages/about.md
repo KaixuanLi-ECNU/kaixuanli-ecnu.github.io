@@ -59,6 +59,15 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 - *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
 - *2016.09 - 2020.06*, Bachelor of Software Engineering, Software Engineering Institute, East China Normal University.
 
+# 💻 Teaching
+
+## Teaching Assistant
+
+- Hardware-Software Co-design (软硬件协同设计)
+  - Post-graduate course, East China Normal Unversity, 2021.09-2022.01
+
+- Optimization and design of intelligent systems (智能系统优化设计)
+  - Undergraduate course, East China Normal Unversity, 2021.02-2021.06
 
 # 📚 Academic Services
 
