@@ -53,7 +53,8 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 - *(ISSTA 2023, CCF-A)* Han Liu, Sen Chen, Ruitao Feng, Chengwei Liu, **Kaixuan Li**, Zhengzi Xu, Liming Nie, Yang Liu, and Yixiang Chen. 2023. "A Comprehensive Study on Quality Assurance Tools for Java", United States, In Proceedings of the 32nd International Symposium on Software Testing and Analysis (ISSTA); 17 July-21 July 2023, Pages:285–297, [https://doi.org/10.1145/3597926.3598056](https://doi.org/10.1145/3597926.3598056).
 - *(JoS, CCF-A in Chinese)* Han Liu, **Kaixuan Li**, and Yixiang Chen. "Survey on Trustworthiness Measurement for Artificial Intelligence Systems". Ruan Jian Xue Bao/Journal of Software, 2023, 34(8): 3774–3792 (in Chinese), [http://www.jos.org.cn/1000-9825/6592.htm](http://www.jos.org.cn/1000-9825/6592.htm).
 
-# 📖 Educations
+# 📖 Education
+
 - *2020.09 - 2025.06 (expected)*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
 - *2023.09 - present*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
 - *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
