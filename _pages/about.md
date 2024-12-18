@@ -27,7 +27,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 # 🔥 News
 * December 2024: I won the President Scholarship of East China Normal University, thanks for the recognition and support from the faculty @SEI, ECNU!
-* September 2024: I was selected as a candidate for the President Scholarship of East China Normal University!
+* November 2024: I was selected as a candidate for the President Scholarship of East China Normal University!
 * October 2024: Our paper "A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android" was accepted by TSE, congrats to Jingyun!
 * October 2024: I am invited as a PC member @MSR4P&S 2025, co-located with SANAR 2025. Welcome to submit your papers!
 * September 2024: I won the National Scholarship of Doctoral Students (China), thanks for the recognition and support from the faculty and students@SEI, ECNU!
