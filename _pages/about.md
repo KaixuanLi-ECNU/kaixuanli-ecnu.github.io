@@ -73,6 +73,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 ## Reviewer/Program Committee Member:
 * [ICSE 2026]()
+* [PLDI 2025]() Artifact Evaluation
 * [TOSEM](https://dl.acm.org/journal/tosem)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
 * [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
