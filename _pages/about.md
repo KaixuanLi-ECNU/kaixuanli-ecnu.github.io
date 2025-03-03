@@ -26,6 +26,7 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 
 # 🔥 News
+* <span style="color:#FC4E2A">**2025.01:**</span> I am selected as a PC member within ICSE 2026, welcome to submit your papers!
 * <span style="color:#FC4E2A">**2024.12:**</span> I won the President Scholarship of East China Normal University, thanks for the recognition and support from the faculty @SEI, ECNU!
 * <span style="color:#FC4E2A">**2024.09:**</span> I won the National Scholarship of Doctoral Students (China), thanks for the recognition and support from the faculty and students@SEI, ECNU!
 * <span style="color:#FC4E2A">**2024.09:**</span> I am selected as a Shadow PC member within ICSE 2025, welcome to submit your papers!
@@ -41,6 +42,8 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 - *(Preprint)* Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [Preprint](https://arxiv.org/pdf/2403.16032.pdf)
 - *(Preprint)* Lyueye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. "Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts." arXiv preprint arXiv:2403.06838 (2024), [Preprint](https://arxiv.org/pdf/2403.06838.pdf)
+
+- *(APR 2025)* Lyuye Zhang, Jiahui Wu, Chengwei Liu, **Kaixuan Li**, Sen Chen, and Yang Liu, "Towards Unveiling Vulnerability Remediation Tactics from OSS Community", Ottawa, Ontario, Canada, In Proceedings of the 6th International Workshop on Automated Program Repair, In conjunction with 47th International Conference on Software Engineering (ICSE 2025), Sun 27 April - Sat 3 May 2025.
 
 - <span style="color:#337AB7">[*TSE, CCF-A*]</span> Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie. 2024. A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android. IEEE Transactions on Software Engineering. [Preprint: http://arxiv.org/abs/2410.20740](http://arxiv.org/abs/2410.20740).
 - <span style="color:#337AB7">[*ISSTA 2024, CCF-A*]</span> **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen. "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software." In Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, pp. 590-602. 2024. [https://doi.org/10.1145/3650212.3680305](https://doi.org/10.1145/3650212.3680305).
@@ -72,8 +75,8 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 # 📚 Academic Services
 
 ## Reviewer/Program Committee Member:
-* [ICSE 2026]()
-* [PLDI 2025]() Artifact Evaluation
+* [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
+* [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee)
 * [TOSEM](https://dl.acm.org/journal/tosem)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
 * [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
