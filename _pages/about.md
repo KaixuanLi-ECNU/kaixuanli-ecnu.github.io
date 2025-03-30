@@ -26,6 +26,8 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 
 # 🔥 News
+* <span style="color:#FC4E2A">**2025.03:**</span> Our paper "Fixing Outside the Box: Uncovering Tactics for Open-Source Secu-
+rity Issue Management" was accepted by ISSTA 2025, congrats to Lyuye!
 * <span style="color:#FC4E2A">**2025.01:**</span> I am selected as a PC member within ICSE 2026, welcome to submit your papers!
 * <span style="color:#FC4E2A">**2024.12:**</span> I won the President Scholarship of East China Normal University, thanks for the recognition and support from the faculty @SEI, ECNU!
 * <span style="color:#FC4E2A">**2024.09:**</span> I won the National Scholarship of Doctoral Students (China), thanks for the recognition and support from the faculty and students@SEI, ECNU!
@@ -39,6 +41,9 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 # 📝 Selected Publications 
 ^ indicates equal contribution.
+
+- <span style="color:#337AB7">[*ISSTA 2025, CCF-A*]</span> Lyuye Zhang, Jiahui Wu, Chengwei Liu, **Kaixuan Li**, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025. Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. In Proceedings of International Symposium on Software Testing and Analysis (ISSTA ’25). ACM, New York, NY, USA, 24 pages.
+https://doi.org/XXXXXXX.XXXXXXX
 
 - *(Preprint)* Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [Preprint](https://arxiv.org/pdf/2403.16032.pdf)
 - *(Preprint)* Lyueye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. "Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts." arXiv preprint arXiv:2403.06838 (2024), [Preprint](https://arxiv.org/pdf/2403.06838.pdf)
