@@ -26,12 +26,13 @@ My research focuses on Trustworthy Software, particularly in areas such as **Ope
 
 
 # 🔥 News
+* <span style="color:#FC4E2A">**2025.04:**</span> I was honored as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
 * <span style="color:#FC4E2A">**2025.03:**</span> Our paper "Fixing Outside the Box: Uncovering Tactics for Open-Source Secu-
-rity Issue Management" was accepted by ISSTA 2025, congrats to Lyuye!
-* <span style="color:#FC4E2A">**2025.01:**</span> I am selected as a PC member within ICSE 2026, welcome to submit your papers!
-* <span style="color:#FC4E2A">**2024.12:**</span> I won the President Scholarship of East China Normal University, thanks for the recognition and support from the faculty @SEI, ECNU!
-* <span style="color:#FC4E2A">**2024.09:**</span> I won the National Scholarship of Doctoral Students (China), thanks for the recognition and support from the faculty and students@SEI, ECNU!
-* <span style="color:#FC4E2A">**2024.09:**</span> I am selected as a Shadow PC member within ICSE 2025, welcome to submit your papers!
+rity Issue Management" was accepted by ISSTA 2025. Congrats to Lyuye!
+* <span style="color:#FC4E2A">**2025.01:**</span> I was selected as a PC member within ICSE 2026. Welcome to submit your papers!
+* <span style="color:#FC4E2A">**2024.12:**</span> I won the President Scholarship of East China Normal University. Thanks for the recognition and support from the faculty @SEI, ECNU!
+* <span style="color:#FC4E2A">**2024.09:**</span> I won the National Scholarship of Doctoral Students (China). Thanks for the recognition and support from the faculty and students@SEI, ECNU!
+* <span style="color:#FC4E2A">**2024.09:**</span> I was selected as a Shadow PC member within ICSE 2025. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2024.07:**</span> Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024!
 * <span style="color:#FC4E2A">**2024.07:**</span> Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an [ACM SIGSOFT Distinguished Paper award](https://2024.esec-fse.org/info/awards)! 🏆
 * <span style="color:#FC4E2A">**2024.05:**</span> Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024.
