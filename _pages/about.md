@@ -107,6 +107,7 @@ https://doi.org/XXXXXXX.XXXXXXX
 
 
 # 🎖 Honors and Awards
+* Outstanding Graduate of Shanghai, 2025.
 * The President Scholarship of East China Normal University (Graduate), 2024.
 * Merit Student of East China Normal University, 2023-2024.
 * National Scholarship, Ministry of Education, China, 2024.
