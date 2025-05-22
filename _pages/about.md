@@ -17,16 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") is now a final-year Ph.D. candidate in the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). Before that, I received my B.S. degree in Software Engineering Institute from ECNU in 2020. 
-I am also a research assistant at [Nanyang Technological University](https://www.ntu.edu.sg/) under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) during 2022-2025.
+[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") will join [Nanyang Technological University](https://www.ntu.edu.sg/) as a research fellow, under the supervision of [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). 
+He got his Ph.D. degree from the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
+Before that, he received a B.S. degree in Software Engineering Institute from ECNU in 2020. 
 
-My research focuses on Software Quality Analysis and Assurance, particularly in areas such as **Open Source Security** and **Smart Contract Security** by exploring program analysis and applying large language models (LLMs) to enhance software security. 
+
+His research focuses on Software Quality Analysis and Assurance, particularly in exploring program analysis and applying large language models (LLMs) to enhance software security. 
 
 💬 kaixuanli AT stu.ecnu.edu.cn
 
 
 # 🔥 News
-* <span style="color:#FC4E2A">**2025.04:**</span> I was honored as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
+* <span style="color:#FC4E2A">**2025.04:**</span> I was honored to be selected as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
 * <span style="color:#FC4E2A">**2025.01:**</span> I was selected as a PC member within ICSE 2026. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2024.12:**</span> I won the President Scholarship of East China Normal University. Thanks for the recognition and support from the faculty @SEI, ECNU!
 * <span style="color:#FC4E2A">**2024.09:**</span> I won the National Scholarship of Doctoral Students (China). Thanks for the recognition and support from the faculty and students@SEI, ECNU!
@@ -61,7 +63,7 @@ https://doi.org/XXXXXXX.XXXXXXX
 
 # 📖 Education
 
-- *2020.09 - 2025.06 (expected)*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
+- *2020.09 - 2025.06*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
 - *2023.09 - present*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
 - *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
 - *2016.09 - 2020.06*, Bachelor of Software Engineering, Software Engineering Institute, East China Normal University.
