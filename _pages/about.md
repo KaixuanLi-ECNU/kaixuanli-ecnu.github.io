@@ -73,14 +73,15 @@ https://doi.org/XXXXXXX.XXXXXXX
 ## Teaching Assistant
 
 - Hardware-Software Co-design (软硬件协同设计)
-  - Post-graduate course, East China Normal Unversity, 2021.09-2022.01
+  - Post-graduate course, East China Normal University, 2021.09-2022.01
 
 - Optimization and design of intelligent systems (智能系统优化设计)
-  - Undergraduate course, East China Normal Unversity, 2021.02-2021.06
+  - Undergraduate course, East China Normal University, 2021.02-2021.06
 
 # 📚 Academic Services
 
 ## Reviewer/Program Committee Member:
+* [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee)
 * [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
 * [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee)
 * [TOSEM](https://dl.acm.org/journal/tosem)
