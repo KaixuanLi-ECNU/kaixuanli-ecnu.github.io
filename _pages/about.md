@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") will join [Nanyang Technological University](https://www.ntu.edu.sg/) as a research fellow, working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). 
+[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") is a postdoctoral research fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). 
 He got his Ph.D. degree from the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
-Before that, he received a B.S. degree in Software Engineering Institute from ECNU in 2020. 
-
+Before that, he received a B.S. degree in Software Engineering from ECNU in 2020. 
 
 His research focuses on Software Quality Analysis and Assurance, particularly in exploring program analysis and applying large language models (LLMs) to enhance software security. 
 
@@ -66,10 +65,10 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 # 📖 Education
 
-- *2020.09 - 2025.06*, Ph.D. student/candidate, Software Engineering Institute, East China Normal University.
-- *2023.09 - present*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
+- *2020.09 - 2025.06*, Ph.D. in Software Engineering, Software Engineering Institute, East China Normal University.
+- *2023.09 - 2025.06*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
 - *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
-- *2016.09 - 2020.06*, Bachelor of Software Engineering, Software Engineering Institute, East China Normal University.
+- *2016.09 - 2020.06*, Bachelor in Software Engineering, Software Engineering Institute, East China Normal University.
 
 # 💻 Teaching
 
