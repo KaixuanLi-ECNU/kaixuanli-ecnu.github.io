@@ -28,6 +28,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 # 🔥 News
 * <span style="color:#FC4E2A">**2025.06:**</span> I was selected as a PC member within FSE 2026. Welcome to submit your papers!
+* * <span style="color:#FC4E2A">**2025.06:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis at College of Information Technology, ECNU"!
 * <span style="color:#FC4E2A">**2025.04:**</span> I was honored to be selected as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
 * <span style="color:#FC4E2A">**2025.01:**</span> I was selected as a PC member within ICSE 2026. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2024.12:**</span> I won the President Scholarship of East China Normal University. Thanks for the recognition and support from the faculty @SEI, ECNU!
@@ -110,6 +111,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 🎖 Honors and Awards
+* The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2025.
 * Outstanding Graduate of Shanghai, 2025.
 * "Outstanding Student Youth" Award （学生杰出青年）@SEI, East China Normal University, 2025.
 * The President Scholarship of East China Normal University (Graduate), 2024.
