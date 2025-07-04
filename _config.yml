@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaixuan Li (李凯旋)"
   avatar           : "images/profile.jpg"
-  bio              : "research fellow at Nanyang Technological University"
+  bio              : "Research fellow at Nanyang Technological University"
   location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
