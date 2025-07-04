@@ -49,7 +49,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 - <span style="color:#337AB7">[*ISSTA 2025, CCF-A*]</span> Lyuye Zhang, Jiahui Wu, Chengwei Liu, **Kaixuan Li**, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu. 2025.
  Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management. Proc. ACM Softw. Eng. 2, ISSTA, Article ISSTA 100 (July 2025), 23 pages. https://doi.org/10.1145/3728977.
 
-- <span style="color:#337AB7">[*Preprint*] Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [Preprint](https://arxiv.org/pdf/2403.16032.pdf)
+- <span style="color:#337AB7">[*Preprint*]</span> Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinhua Li, and Yang Liu. 2024. "FineWAVE: Fine-Grained Warning Verification of Bugs for Automated Static Analysis Tools." arXiv preprint arXiv:2403.16032 (2024), [Preprint: https://arxiv.org/pdf/2403.16032.pdf](https://arxiv.org/pdf/2403.16032.pdf)
 
 - *(APR 2025)* Lyuye Zhang, Jiahui Wu, Chengwei Liu, **Kaixuan Li**, Sen Chen, and Yang Liu, "Towards Unveiling Vulnerability Remediation Tactics from OSS Community", Ottawa, Ontario, Canada, In Proceedings of the 6th International Workshop on Automated Program Repair, In conjunction with 47th International Conference on Software Engineering (ICSE 2025), Sun 27 April - Sat 3 May 2025.
 
