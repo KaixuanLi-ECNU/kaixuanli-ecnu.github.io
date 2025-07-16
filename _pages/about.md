@@ -84,6 +84,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 * [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee)
 * [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
 * [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee)
+* [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 * [TOSEM](https://dl.acm.org/journal/tosem)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
 * [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
@@ -95,12 +96,12 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 ## Co-reviewer:
 * ICSE 2023, 2024
-* FSE 2022, 2023
-* ASE 2022, 2023
-* ISSTA 2024, 2025
 * USENIX Security 2025
 * IEEE S&P 2025
 * CCS 2024
+* FSE 2022, 2023
+* ASE 2022, 2023, 2025
+* ISSTA 2024, 2025
 * WWW 2024
 * Frontiers of Computer Science
 * ESTC 2022
