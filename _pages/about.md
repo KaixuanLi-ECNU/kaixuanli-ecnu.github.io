@@ -46,8 +46,8 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 ^ indicates equal contribution.
 
 
-- <span style="color:#337AB7">[*ASE, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu. 2025. "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation." (to appear)
-- <span style="color:#337AB7">[*ASE, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yuqiang Sun, Liwei Tan, and Yang Liu. 2025. "FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization." (to appear)
+- <span style="color:#337AB7">[*ASE 2025, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu. 2025. "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation." (to appear)
+- <span style="color:#337AB7">[*ASE 2025, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yuqiang Sun, Liwei Tan, and Yang Liu. 2025. "FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization." (to appear)
 
 - <span style="color:#337AB7">[*TSE, CCF-A*]</span> Lyueye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. "Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts." arXiv preprint arXiv:2403.06838 (2024), [Preprint: https://arxiv.org/pdf/2403.06838.pdf](https://arxiv.org/pdf/2403.06838.pdf)
 
