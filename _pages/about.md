@@ -27,6 +27,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 🔥 News
+* <span style="color:#FC4E2A">**2025.09:**</span> Two papers accepted to ASE 2025. Congrats to Kairan!
 * <span style="color:#FC4E2A">**2025.06:**</span> I was selected as a PC member within FSE 2026. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.06:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at the College of Information Technology, ECNU!
 * <span style="color:#FC4E2A">**2025.04:**</span> I was honored to be selected as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
@@ -34,15 +35,19 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 * <span style="color:#FC4E2A">**2024.12:**</span> I won the President Scholarship of East China Normal University. Thanks for the recognition and support from the faculty @SEI, ECNU!
 * <span style="color:#FC4E2A">**2024.09:**</span> I won the National Scholarship of Doctoral Students (China). Thanks for the recognition and support from the faculty and students@SEI, ECNU!
 * <span style="color:#FC4E2A">**2024.09:**</span> I was selected as a Shadow PC member within ICSE 2025. Welcome to submit your papers!
-* <span style="color:#FC4E2A">**2024.07:**</span> Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted by ISSTA 2024!
+* <span style="color:#FC4E2A">**2024.07:**</span> Our paper "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software" was accepted to ISSTA 2024!
 * <span style="color:#FC4E2A">**2024.07:**</span> Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" has won an [ACM SIGSOFT Distinguished Paper award](https://2024.esec-fse.org/info/awards)! 🏆
-* <span style="color:#FC4E2A">**2024.05:**</span> Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted by Usenix Security 2024.
-* <span style="color:#FC4E2A">**2024.04:**</span> Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted by FSE 2024.
+* <span style="color:#FC4E2A">**2024.05:**</span> Our paper "Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts" was accepted to Usenix Security 2024.
+* <span style="color:#FC4E2A">**2024.04:**</span> Our paper "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" was accepted to FSE 2024.
 
 
 
 # 📝 Selected Publications 
 ^ indicates equal contribution.
+
+
+- <span style="color:#337AB7">[*ASE, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu. 2025. "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation." (to appear)
+- <span style="color:#337AB7">[*ASE, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yuqiang Sun, Liwei Tan, and Yang Liu. 2025. "FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization." (to appear)
 
 - <span style="color:#337AB7">[*TSE, CCF-A*]</span> Lyueye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu. 2024. "Acfix: Guiding LLMs with mined common RBAC practices for context-aware repair of access control vulnerabilities in smart contracts." arXiv preprint arXiv:2403.06838 (2024), [Preprint: https://arxiv.org/pdf/2403.06838.pdf](https://arxiv.org/pdf/2403.06838.pdf)
 
