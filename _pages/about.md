@@ -27,6 +27,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 🔥 News
+* <span style="color:#FC4E2A">**2025.09:**</span> I was selected as a PC member within ICSE 2026 SE In Practice. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.09:**</span> Two papers accepted to ASE 2025. Congrats to Kairan!
 * <span style="color:#FC4E2A">**2025.06:**</span> I was selected as a PC member within FSE 2026. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.06:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at the College of Information Technology, ECNU!
@@ -84,6 +85,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 # 📚 Academic Services
 
 ## Reviewer/Program Committee Member:
+* [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice)
 * [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee)
 * [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
 * [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee)
