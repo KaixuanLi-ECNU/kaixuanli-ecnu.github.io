@@ -45,7 +45,9 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 📝 Selected Publications 
-^ indicates equal contribution, and * indicates corresponding author.
+^ indicates the co-first author, and * indicates the corresponding author.
+
+- <span style="color:#337AB7">[*Preprint*]</span> Mengyao Zhao, **Kaixuan Li^**, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu. 2025. "A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models." [Preprint: https://arxiv.org/abs/2510.10148](https://arxiv.org/abs/2510.10148).
 
 - <span style="color:#337AB7">[*ICSE 2026, CCF-A*]</span> Rui Lu, Lyuye Zhang, **Kaixuan Li***, Min Zhang, and Yixiang Chen. 2025. "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects." (to appear)
 
