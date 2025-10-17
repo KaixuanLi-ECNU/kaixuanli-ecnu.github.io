@@ -27,8 +27,9 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 🔥 News
+* <span style="color:#FC4E2A">**2025.10:**</span> Our paper for OSS quality assurance was accepted to ICSE 2026. Congrats to Rui!
 * <span style="color:#FC4E2A">**2025.09:**</span> I was selected as a PC member within ICSE 2026 SE In Practice. Welcome to submit your papers!
-* <span style="color:#FC4E2A">**2025.09:**</span> Two papers accepted to ASE 2025. Congrats to Kairan!
+* <span style="color:#FC4E2A">**2025.09:**</span> Two papers for smart contract security assurance were accepted to ASE 2025. Congrats to Kairan!
 * <span style="color:#FC4E2A">**2025.06:**</span> I was selected as a PC member within FSE 2026. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.06:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at the College of Information Technology, ECNU!
 * <span style="color:#FC4E2A">**2025.04:**</span> I was honored to be selected as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
@@ -44,8 +45,9 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 📝 Selected Publications 
-^ indicates equal contribution.
+^ indicates equal contribution, and * indicates corresponding author.
 
+- <span style="color:#337AB7">[*ICSE 2026, CCF-A*]</span> Rui Lu, Lyuye Zhang, **Kaixuan Li***, Min Zhang, and Yixiang Chen. 2025. "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects." (to appear)
 
 - <span style="color:#337AB7">[*ASE 2025, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu. 2025. "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation." (to appear)
 - <span style="color:#337AB7">[*ASE 2025, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yuqiang Sun, Liwei Tan, and Yang Liu. 2025. "FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization." (to appear)
