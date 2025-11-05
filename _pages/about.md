@@ -49,6 +49,10 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 - <span style="color:#337AB7">[*Preprint*]</span> Mengyao Zhao, **Kaixuan Li^**, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu. 2025. "A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models." [Preprint: https://arxiv.org/abs/2510.10148](https://arxiv.org/abs/2510.10148).
 
+- <span style="color:#337AB7">[*Preprint*]</span> Wenjing Dang, **Kaixuan Li^**, Sen Chen, Zhenwei Zhuo, Lyuye Zhang, and Zheli Liu 2025. "Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study." [Preprint: https://arxiv.org/pdf/2510.18448](https://arxiv.org/pdf/2510.18448).
+
+
+
 - <span style="color:#337AB7">[*ICSE 2026, CCF-A*]</span> Rui Lu, Lyuye Zhang, **Kaixuan Li***, Min Zhang, and Yixiang Chen. 2025. "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects." (to appear)
 
 - <span style="color:#337AB7">[*ASE 2025, CCF-A*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu. 2025. "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation." (to appear)
