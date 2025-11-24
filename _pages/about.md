@@ -27,7 +27,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 🔥 News
-* <span style="color:#FC4E2A">**2025.10:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU!
+* <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU!
 * <span style="color:#FC4E2A">**2025.10:**</span> Our paper for OSS quality assurance was accepted to ICSE 2026. Congrats to Rui!
 * <span style="color:#FC4E2A">**2025.09:**</span> I was selected as a PC member within ICSE 2026 SE In Practice. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.09:**</span> Two papers for smart contract security assurance were accepted to ASE 2025. Congrats to Kairan!
