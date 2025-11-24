@@ -27,6 +27,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 🔥 News
+* <span style="color:#FC4E2A">**2025.10:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU!
 * <span style="color:#FC4E2A">**2025.10:**</span> Our paper for OSS quality assurance was accepted to ICSE 2026. Congrats to Rui!
 * <span style="color:#FC4E2A">**2025.09:**</span> I was selected as a PC member within ICSE 2026 SE In Practice. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.09:**</span> Two papers for smart contract security assurance were accepted to ASE 2025. Congrats to Kairan!
@@ -112,10 +113,12 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 
 # 🎖 Honors and Awards
+
+* [The distinguished Ph.D. thesis at East China Normal University](https://yjsy.ecnu.edu.cn/0f/86/c42079a724870/page.htm), 2025.
 * The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2025.
 * Outstanding Graduate of Shanghai, 2025.
 * "Outstanding Student Youth" Award （学生杰出青年）@SEI, East China Normal University, 2025.
-* The President Scholarship of East China Normal University (Graduate), 2024.
+* [The President Scholarship of East China Normal University (Graduate)](https://zizhu.ecnu.edu.cn/13/eb/c41428a660459/page.htm), 2024.
 * Merit Student of East China Normal University, 2023-2024.
 * National Scholarship, Ministry of Education, China, 2024.
 * ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
