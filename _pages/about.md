@@ -92,24 +92,10 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 * [TOSEM](https://dl.acm.org/journal/tosem)
 * [Cybersecurity](https://cybersecurity.springeropen.com/)
 * [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
-* [MSR4P&S 2025 Workshop](https://msr4ps.github.io/)
 
 ## Shadow/Junior Program Committee Member:
 * [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc)
 * [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
-
-## Co-reviewer:
-* ICSE 2023, 2024
-* USENIX Security 2025
-* IEEE S&P 2025
-* CCS 2024
-* FSE 2022, 2023
-* ASE 2022, 2023, 2025
-* ISSTA 2024, 2025
-* WWW 2024
-* Frontiers of Computer Science
-* ESTC 2022
-* Journal of Software
 
 
 # 🎖 Honors and Awards
