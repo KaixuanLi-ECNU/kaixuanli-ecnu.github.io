@@ -29,7 +29,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 # 🔥 News
 * <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU!
 * <span style="color:#FC4E2A">**2025.10:**</span> Our paper for OSS quality assurance was accepted to ICSE 2026. Congrats to Rui!
-* <span style="color:#FC4E2A">**2025.09:**</span> I was selected as a PC member within ICSE 2026 SE In Practice. Welcome to submit your papers!
+* <span style="color:#FC4E2A">**2025.09:**</span> I was selected as a PC member within ICSE 2026 Software Engineering In Practice. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.09:**</span> Two papers for smart contract security assurance were accepted to ASE 2025. Congrats to Kairan!
 * <span style="color:#FC4E2A">**2025.06:**</span> I was selected as a PC member within FSE 2026. Welcome to submit your papers!
 * <span style="color:#FC4E2A">**2025.06:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at the College of Information Technology, ECNU!
@@ -37,7 +37,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 * <span style="color:#FC4E2A">**2025.01:**</span> I was selected as a PC member within ICSE 2026. Welcome to submit your papers!
 
 # 📝 Selected Publications 
-^ indicates the co-first author, and * indicates the corresponding author.
+^ for the co-first author, and * for the corresponding author.
 
 - <span style="color:#337AB7">[*Preprint*]</span> Mengyao Zhao, **Kaixuan Li^**, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu. 2025. "A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models." [Preprint: https://arxiv.org/abs/2510.10148](https://arxiv.org/abs/2510.10148).
 
@@ -67,7 +67,6 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 # 📖 Education
 
 - *2020.09 - 2025.06*, Ph.D. in Software Engineering, Software Engineering Institute, East China Normal University.
-- *2023.09 - 2025.06*, Research assistant, [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu), Nanyang Technological University.
 - *2022.09 - 2023.09*, Visiting Ph.D. student, School of Computer Science and Engineering, Nanyang Technological University.
 - *2016.09 - 2020.06*, Bachelor in Software Engineering, Software Engineering Institute, East China Normal University.
 
@@ -84,9 +83,10 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 # 📚 Academic Services
 
 ## Reviewer/Program Committee Member:
+
+* [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
 * [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice)
 * [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee)
-* [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
 * [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee)
 * [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 * [TOSEM](https://dl.acm.org/journal/tosem)
