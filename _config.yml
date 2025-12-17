@@ -21,12 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Kaixuan Li (李凯旋)"
+  name             : "Kaixuan Li"
   avatar           : "images/profile.jpg"
   bio              : "Research fellow at Nanyang Technological University"
   location         : "Singapore"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zmkdR04AAAAJ&hl=en"
   # email            : "kaixuanli@stu.ecnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -43,7 +42,7 @@ author:
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kaixuan-li-4b3895307/"
+  linkedin         : "kaixuan-li-4b3895307/"
   orcid            : "https://orcid.org/0000-0002-3517-353X"
   pinterest        :
   soundcloud       :
@@ -52,8 +51,6 @@ author:
   tumblr           :
   twitter          : "KaixuanLi_1999"
   vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
   dblp             : https://dblp.org/pid/219/9925-2.html
