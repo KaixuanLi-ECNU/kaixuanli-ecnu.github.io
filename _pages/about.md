@@ -49,7 +49,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 - <span style="color:#337AB7">[*FSE 2026*]</span> **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu. 2026. "GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities." (to appear)
 
-- <span style="color:#337AB7">[*TSE*] Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu, "DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics." 
+- <span style="color:#337AB7">[*TSE*]</span> Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu, "DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics." 
 
 - <span style="color:#337AB7">[*ICSE 2026*]</span> Rui Lu, Lyuye Zhang, **Kaixuan Li***, Min Zhang, and Yixiang Chen. 2025. "Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects." [Preprint: https://arxiv.org/abs/2511.06762](https://arxiv.org/abs/2511.06762)
 - <span style="color:#337AB7">[*ASE 2025*]</span> Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu. 2025. "Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation." (to appear)
