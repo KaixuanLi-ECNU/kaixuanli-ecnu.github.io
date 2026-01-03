@@ -38,6 +38,16 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 * <span style="color:#FC4E2A">**2025.04:**</span> I was honored to be selected as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
 * <span style="color:#FC4E2A">**2025.01:**</span> I was selected as a PC member within ICSE 2026. Welcome to submit your papers!
 
+
+# 🔍 Curated Literature Resources
+
+Recently, I have been maintaining two curated, community-maintained literature repositories:
+
+- [Static Analyzer Research Papers](https://marklee131.github.io/Static-Analyzer-Research/)
+- [Proof-of-Concept (PoC) Research Papers](https://marklee131.github.io/PoC-Research-Papers/). 
+
+The goal is to provide a structured, continuously updated overview of the fields and to reduce repeated literature collection efforts. Contributions, corrections, and suggestions are very welcome.
+
 # 📝 Selected Publications 
 ^ for the co-first author, and * for the corresponding author.
 
@@ -88,20 +98,10 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 # 📚 Academic Services
 
-## Reviewer/Program Committee Member:
+- Reviewer/Program Committee Member:
+[ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track), [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice), [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee), [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee), [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [TOSEM](https://dl.acm.org/journal/tosem), [Cybersecurity](https://cybersecurity.springeropen.com/), [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
 
-* [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track)
-* [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice)
-* [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee)
-* [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee)
-* [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
-* [TOSEM](https://dl.acm.org/journal/tosem)
-* [Cybersecurity](https://cybersecurity.springeropen.com/)
-* [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
-
-## Shadow/Junior Program Committee Member:
-* [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc)
-* [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
+- Shadow/Junior Program Committee Member: [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc), [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
 
 
 # 🎖 Honors and Awards
