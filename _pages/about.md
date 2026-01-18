@@ -28,7 +28,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 # 🔥 News
 
-* <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Research Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI). Thank you for this recognition!
+* <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI). Thank you for this recognition!
 * <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
 * <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU!
 * <span style="color:#FC4E2A">**2025.10:**</span> Our paper for OSS quality assurance was accepted to ICSE 2026.
@@ -107,7 +107,7 @@ The goal is to provide a structured, continuously updated overview of the fields
 
 # 🎖 Honors and Awards
 
-* Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Research Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
+* Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
 * [The distinguished Ph.D. thesis at East China Normal University](https://yjsy.ecnu.edu.cn/0f/86/c42079a724870/page.htm), 2025.
 * The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2025.
 * Outstanding Graduate of Shanghai, 2025.
