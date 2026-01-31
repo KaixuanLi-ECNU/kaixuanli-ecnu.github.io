@@ -44,7 +44,7 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 Recently, I have been maintaining three curated, community-maintained literature repositories:
 
-- [Hypervisor-Testing-Survey/](https://marklee131.github.io/Hypervisor-Testing-Survey/).
+- [Hypervisor Testing: Techniques, Challenges, and Future Directions](https://marklee131.github.io/Hypervisor-Testing-Survey/).
 - [Static Analyzer Research Papers](https://marklee131.github.io/Static-Analyzer-Research/)
 - [Proof-of-Concept (PoC) Research Papers](https://marklee131.github.io/PoC-Research-Papers/). 
 
