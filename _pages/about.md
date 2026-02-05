@@ -100,10 +100,21 @@ The goal is to provide a structured, continuously updated overview of the fields
 
 # 📚 Academic Services
 
-- Reviewer/Program Committee Member:
-[ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track), [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice), [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee), [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee), [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [TOSEM](https://dl.acm.org/journal/tosem), [Cybersecurity](https://cybersecurity.springeropen.com/), [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
+## Program Committee Member
+### 2026
+- [ICSE 2027](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee), 
+[PLDI 2026 Student Research Competition](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee)
+### 2025
+- [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track), [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice), [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee), [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee), [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
 
-- Shadow/Junior Program Committee Member: [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc), [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
+## Journal Reviewer
+- [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+- [TOSEM](https://dl.acm.org/journal/tosem)
+- [Cybersecurity](https://cybersecurity.springeropen.com/)
+- [Journal of Big Data](https://link.springer.com/journal/40537)
+
+## Junior Program Committee Member
+- [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc), [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
 
 
 # 🎖 Honors and Awards
