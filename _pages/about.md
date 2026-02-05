@@ -28,17 +28,10 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 # 🔥 News
 
-* <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI). Thank you for this recognition!
+* <span style="color:#FC4E2A">**2026.02:**</span> I was selected as an ICSE 2027 PC member within the research track. Welcome to submit your papers.
+* <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI).
 * <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
-* <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU!
-* <span style="color:#FC4E2A">**2025.10:**</span> Our paper for OSS quality assurance was accepted to ICSE 2026.
-* <span style="color:#FC4E2A">**2025.09:**</span> I was selected as a PC member within ICSE 2026 Software Engineering In Practice. Welcome to submit your papers!
-* <span style="color:#FC4E2A">**2025.09:**</span> Two papers for smart contract security assurance were accepted to ASE 2025. 
-* <span style="color:#FC4E2A">**2025.06:**</span> I was selected as a PC member within FSE 2026. Welcome to submit your papers!
-* <span style="color:#FC4E2A">**2025.06:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at the College of Information Technology, ECNU!
-* <span style="color:#FC4E2A">**2025.04:**</span> I was honored to be selected as the "Outstanding Graduate of Shanghai". Thank you for this recognition!
-* <span style="color:#FC4E2A">**2025.01:**</span> I was selected as a PC member within ICSE 2026. Welcome to submit your papers!
-
+* <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU.
 
 # 🔍 Curated Literature Resources
 
