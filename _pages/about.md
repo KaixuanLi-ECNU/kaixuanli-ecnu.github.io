@@ -44,7 +44,7 @@ Recently, I have been maintaining three curated, community-maintained literature
 The goal is to provide a structured, continuously updated overview of the fields and to reduce repeated literature collection efforts. Contributions, corrections, and suggestions are very welcome.
 
 # 📝 Selected Publications
-^: co-first author *: corresponding author.
+Notation: * corresponding author, ^ co-first author (as marked in author list).
 
 - **A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models**
   - Mengyao Zhao, **Kaixuan Li**^, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu
@@ -57,7 +57,7 @@ The goal is to provide a structured, continuously updated overview of the fields
 ----
 
 - **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
-  - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**^, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
+  - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
   - *International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2026)*, 2026 (to appear)
 
 - **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
