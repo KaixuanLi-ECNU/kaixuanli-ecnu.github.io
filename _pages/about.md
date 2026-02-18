@@ -56,6 +56,10 @@ The goal is to provide a structured, continuously updated overview of the fields
 
 ----
 
+- **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
+  - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**^, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
+  - *International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2026)*, 2026 (to appear)
+
 - **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 (to appear)
