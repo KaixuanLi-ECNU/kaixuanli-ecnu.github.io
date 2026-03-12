@@ -73,14 +73,22 @@ Notation: * corresponding author, ^ co-first author (as marked in author list).
   - *ACM/IEEE International Conference on Software Engineering (ICSE)*, 2026
   - [*Preprint: https://arxiv.org/abs/2511.06762*](https://arxiv.org/abs/2511.06762)
 
+- **Let LLM Learn: When Your Static Analyzer Actually 'Gets It'**
+  - Zong Cao, Zhengzi Xu, Yeqi Fu, Yuqiang Sun, **Kaixuan Li**, and Yang Liu
+  - *Black Hat USA 2025*, 2025
+  - [Official Briefings](https://blackhat.com/us-25/briefings/schedule/#let-llm-learn-when-your-static-analyzer-actually-gets-it-46444)
+  - [Video](https://www.youtube.com/watch?v=FPzOgf2EGQE)
+
 - **Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation**
   - Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025
-  - [*Preprint*](./papers/ASE25_PoCShift.pdf)
+  - [https://doi.org/10.1109/ASE63991.2025.00013](https://doi.org/10.1109/ASE63991.2025.00013)
+  [*Preprint*](./papers/ASE25_PoCShift.pdf)
 
 - **FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization**
   - Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yuqiang Sun, Liwei Tan, and Yang Liu
-  - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025 (to appear)
+  - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025
+  - [https://doi.org/10.1109/ASE63991.2025.00017](https://doi.org/10.1109/ASE63991.2025.00017)
 
 - **Acfix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
   - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
