@@ -141,12 +141,12 @@ Notation: * corresponding author, ^ co-first author (as marked in author list).
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023
   - [https://doi.org/10.1145/3611643.3616262](https://doi.org/10.1145/3611643.3616262)
 
-- **A Comprehensive Study on Quality Assurance Tools for Java**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616262)**A Comprehensive Study on Quality Assurance Tools for Java**
   - Han Liu, Sen Chen, Ruitao Feng, Chengwei Liu, **Kaixuan Li**, Zhengzi Xu, Liming Nie, Yang Liu, and Yixiang Chen
   - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2023
   - [https://doi.org/10.1145/3597926.3598056](https://doi.org/10.1145/3597926.3598056)
 
-- **Survey on Trustworthiness Measurement for Artificial Intelligence Systems**
+- [![](https://img.shields.io/badge/JoS-2023-blue?style=flat-square)]([[https://doi.org/10.1145/3611643.3616262](http://www.jos.org.cn/1000-9825/6592.htm)](https://doi.org/10.1145/3597926.3598056))**Survey on Trustworthiness Measurement for Artificial Intelligence Systems**
   - Han Liu, **Kaixuan Li**, and Yixiang Chen
   - *Journal of Software (软件学报)*, 2023, 34(8): 3774–3792 (In Chinese)
   - [http://www.jos.org.cn/1000-9825/6592.htm](http://www.jos.org.cn/1000-9825/6592.htm)
