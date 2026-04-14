@@ -45,7 +45,7 @@ The goal is to provide a structured, continuously updated overview of the fields
 
 
 # 📝 Selected Publications
-Notation: * corresponding author, ^ co-first author (as marked in author list).
+Notation: * corresponding author, ^ co-first author (as marked in author list). [[Full list]](https://scholar.google.com/citations?user=zmkdR04AAAAJ&hl=en)
 
 - **A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models**
   - Mengyao Zhao, **Kaixuan Li**^, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu
@@ -57,18 +57,26 @@ Notation: * corresponding author, ^ co-first author (as marked in author list).
 
 ----
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/OOPSLA-2026-blue?style=flat-square) **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
+  - Maoyi Xie, **Kaixuan Li**\*, Jingquan Ge, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, and Yang Liu
+  - *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026 (to appear)
+
+
+
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/OOPSLA-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3798272) **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
   - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
-  - *International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2026)*, 2026 (to appear)
+  - *International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2026)*, 2026
+  - [https://dl.acm.org/doi/10.1145/3798272](https://dl.acm.org/doi/10.1145/3798272)
 
  - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square) **Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale**                                            
     - Chengyue Liu, Zhengzi Xu, **Kaixuan Li**, Jiahui Wu, Sihao Qiu, Siyuan Li, Siyang Xiong, Yang Xiao, and Yang Liu                                                                                                             
     - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 (to appear)   
 
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square) **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square)](https://doi.org/10.1145/3797065) **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
-  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 (to appear)
+  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026
+  - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
@@ -100,11 +108,6 @@ Notation: * corresponding author, ^ co-first author (as marked in author list).
   - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
   - *IEEE Transactions on Software Engineering (TSE)*, 2024
   - [*Preprint: https://arxiv.org/pdf/2403.06838.pdf*](https://arxiv.org/pdf/2403.06838.pdf)
-
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2025-blue?style=flat-square)](https://doi.org/10.1145/3728977) **Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management**
-  - Lyuye Zhang, Jiahui Wu, Chengwei Liu, **Kaixuan Li**, Xiaoyu Sun, Lida Zhao, Chong Wang, and Yang Liu
-  - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2025
-  - [https://doi.org/10.1145/3728977](https://doi.org/10.1145/3728977)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](http://arxiv.org/abs/2410.20740) **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
   - Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie
@@ -141,15 +144,11 @@ Notation: * corresponding author, ^ co-first author (as marked in author list).
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023
   - [https://doi.org/10.1145/3611643.3616262](https://doi.org/10.1145/3611643.3616262)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616262)**A Comprehensive Study on Quality Assurance Tools for Java**
-  - Han Liu, Sen Chen, Ruitao Feng, Chengwei Liu, **Kaixuan Li**, Zhengzi Xu, Liming Nie, Yang Liu, and Yixiang Chen
-  - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2023
-  - [https://doi.org/10.1145/3597926.3598056](https://doi.org/10.1145/3597926.3598056)
-
 - [![](https://img.shields.io/badge/JoS-2023-blue?style=flat-square)]([[https://doi.org/10.1145/3611643.3616262](http://www.jos.org.cn/1000-9825/6592.htm)](https://doi.org/10.1145/3597926.3598056))**Survey on Trustworthiness Measurement for Artificial Intelligence Systems**
   - Han Liu, **Kaixuan Li**, and Yixiang Chen
   - *Journal of Software (软件学报)*, 2023, 34(8): 3774–3792 (In Chinese)
   - [http://www.jos.org.cn/1000-9825/6592.htm](http://www.jos.org.cn/1000-9825/6592.htm)
+
 
 # 📖 Education
 
