@@ -28,10 +28,17 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 # 🔥 News
 
+* <span style="color:#FC4E2A">**2026.04:**</span> Our work about evidence-based C/C++ binary third-party library detection was accepted at ISSTA 2026.
 * <span style="color:#FC4E2A">**2026.02:**</span> I was selected as an ICSE 2027 PC member within the research track. Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI).
 * <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
+
+<details class="news-more" markdown="1">
+<summary>Show earlier news</summary>
+
 * <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU.
+
+</details>
 
 # 🔍 Curated Literature Resources
 
@@ -57,21 +64,22 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 ----
 
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
+  - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
+  - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2026 (to appear)
+
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
   - Maoyi Xie, **Kaixuan Li**\*, Jingquan Ge, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, and Yang Liu
   - *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026 (to appear)
-
-
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/OOPSLA-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3798272) **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
   - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
   - *International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2026)*, 2026
   - [https://dl.acm.org/doi/10.1145/3798272](https://dl.acm.org/doi/10.1145/3798272)
 
- - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square) **Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale**                                            
-    - Chengyue Liu, Zhengzi Xu, **Kaixuan Li**, Jiahui Wu, Sihao Qiu, Siyuan Li, Siyang Xiong, Yang Xiao, and Yang Liu                                                                                                             
-    - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 (to appear)   
-
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square) **Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale**
+  - Chengyue Liu, Zhengzi Xu, **Kaixuan Li**, Jiahui Wu, Sihao Qiu, Siyuan Li, Siyang Xiong, Yang Xiao, and Yang Liu
+  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 (to appear)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square)](https://doi.org/10.1145/3797065) **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
@@ -97,7 +105,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025
   - [https://doi.org/10.1109/ASE63991.2025.00013](https://doi.org/10.1109/ASE63991.2025.00013)
-  [*Preprint*](./papers/ASE25_PoCShift.pdf)
+  - [*Preprint*](./papers/ASE25_PoCShift.pdf)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://doi.org/10.1109/ASE63991.2025.00017) **FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization**
   - Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yuqiang Sun, Liwei Tan, and Yang Liu
@@ -144,9 +152,9 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023
   - [https://doi.org/10.1145/3611643.3616262](https://doi.org/10.1145/3611643.3616262)
 
-- [![](https://img.shields.io/badge/JoS-2023-blue?style=flat-square)]([[https://doi.org/10.1145/3611643.3616262](http://www.jos.org.cn/1000-9825/6592.htm)](https://doi.org/10.1145/3597926.3598056))**Survey on Trustworthiness Measurement for Artificial Intelligence Systems**
+- [![](https://img.shields.io/badge/JoS-2023-blue?style=flat-square)](http://www.jos.org.cn/1000-9825/6592.htm) **Survey on Trustworthiness Measurement for Artificial Intelligence Systems**
   - Han Liu, **Kaixuan Li**, and Yixiang Chen
-  - *Journal of Software (软件学报)*, 2023, 34(8): 3774–3792 (In Chinese)
+  - *Journal of Software (软件学报)*, 2023, 34(8): 3774-3792 (In Chinese)
   - [http://www.jos.org.cn/1000-9825/6592.htm](http://www.jos.org.cn/1000-9825/6592.htm)
 
 
@@ -169,11 +177,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 # 📚 Academic Services
 
 ## Program Committee Member
-### 2026
-- [ICSE 2027](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee), 
-[PLDI 2026 Student Research Competition](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee)
-### 2025
-- [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track), [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice), [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee), [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee), [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
+- [ICSE 2027](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee), [PLDI 2026 Student Research Competition](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee), [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track), [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice), [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee), [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee), [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
 
 ## Journal Reviewer
 - [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)

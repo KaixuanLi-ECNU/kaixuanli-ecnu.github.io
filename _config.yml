@@ -7,9 +7,12 @@
 
 # Site Settings
 title                    : "Kaixuan Li (李凯旋)"
-description              : ""
+description              : "Kaixuan Li (李凯旋) is a postdoctoral research fellow at Nanyang Technological University working on software security, program analysis, SAST tools, and LLMs for vulnerability detection and repair."
+keywords                 : "Kaixuan Li, 李凯旋, NTU, software security, program analysis, static analysis, SAST, vulnerability detection, large language models, LLM for security, smart contract security, software engineering research"
+url                      : "https://kaixuanli-ecnu.github.io"
 repository               : "KaixuanLi-ECNU/kaixuanli-ecnu.github.io"
 google_scholar_stats_use_cdn : true
+og_image                 : "images/vienna.JPG"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -54,6 +57,11 @@ author:
   youtube          :
   wikipedia        :
   dblp             : https://dblp.org/pid/219/9925-2.html
+
+# Twitter (used by SEO/Open Graph tags)
+twitter:
+  username         : "KaixuanLi_1999"
+  card             : "summary"
 
 # Reading Files
 include:
