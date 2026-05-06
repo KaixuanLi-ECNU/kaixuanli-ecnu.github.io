@@ -182,17 +182,20 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 ## Program Committee Member
 
-- **2027**: [![](https://img.shields.io/badge/FSE-2027-2ea44f?style=flat-square)](https://conf.researchr.org/committee/fse-2027/fse-2027-papers-program-committee) Research Track · [![](https://img.shields.io/badge/ICSE-2027-1f6feb?style=flat-square)](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee) Research Track
-- **2026**: [![](https://img.shields.io/badge/FSE-2026-2ea44f?style=flat-square)](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee) Research Track · [![](https://img.shields.io/badge/ICSE-2026-1f6feb?style=flat-square)](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track) Research Track · [![](https://img.shields.io/badge/ICSE_SEIP-2026-fb8c00?style=flat-square)](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice) SEIP · [![](https://img.shields.io/badge/PLDI-2026-8957e5?style=flat-square)](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee) Student Research Competition
-- **2025**: [![](https://img.shields.io/badge/PLDI-2025-8957e5?style=flat-square)](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee) Artifact Evaluation · [![](https://img.shields.io/badge/AILA-2025-c62828?style=flat-square)](http://ailasym.com/AILA2025/AILA2025.html) AILA Symposium  · [![](https://img.shields.io/badge/ICSE-2025-1f6feb?style=flat-square)](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc) Shadow PC, Research Track
-- **2024**: [![](https://img.shields.io/badge/MSR-2024-1f6feb?style=flat-square)](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee) Junior PC, Technical Papers
+- **2027**: [ICSE](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee) Research Track · [FSE](https://conf.researchr.org/committee/fse-2027/fse-2027-papers-program-committee) Research Track
+- **2026**: [ICSE](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track) Research Track · [ICSE SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice) · [FSE](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee) Research Track · [PLDI](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee) Student Research Competition
+- **2025**: [ICSE](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc) Shadow PC, Research Track · [PLDI](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee) Artifact Evaluation · [AILA](http://ailasym.com/AILA2025/AILA2025.html) Symposium
+- **2024**: [MSR](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee) Junior PC, Technical Papers
 
 ## Journal Reviewer
 
-[TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) &nbsp;·&nbsp; [TOSEM](https://dl.acm.org/journal/tosem) &nbsp;·&nbsp; [Cybersecurity](https://cybersecurity.springeropen.com/) &nbsp;·&nbsp; [Journal of Big Data](https://link.springer.com/journal/40537)
+- [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) (IEEE Transactions on Software Engineering)
+- [TOSEM](https://dl.acm.org/journal/tosem) (ACM Transactions on Software Engineering and Methodology)
+- [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) (IEEE Transactions on Dependable and Secure Computing)
+- [Cybersecurity](https://cybersecurity.springeropen.com/) (Springer Cybersecurity)
 
 
-# 🎖 Honors and Awards
+# ✨ Honors and Awards
 
 * Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
 * [The distinguished Ph.D. thesis at East China Normal University](https://yjsy.ecnu.edu.cn/0f/86/c42079a724870/page.htm), 2025.
