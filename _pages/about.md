@@ -30,7 +30,7 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 
 * <span style="color:#FC4E2A">**2026.05:**</span> I was invited to serve on the Program Committee of FSE 2027 (Research Track). Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.04:**</span> Our work about evidence-based C/C++ binary third-party library detection was accepted at ISSTA 2026.
-* <span style="color:#FC4E2A">**2026.02:**</span> I was to serve on the Program Committee of ICSE 2027 (Research Track). Welcome to submit your papers.
+* <span style="color:#FC4E2A">**2026.02:**</span> I was invited to serve on the Program Committee of ICSE 2027 (Research Track). Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI).
 * <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
 
