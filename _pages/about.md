@@ -21,15 +21,16 @@ redirect_from:
 He got his Ph.D. degree from the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
 Before that, he received a B.S. degree in Software Engineering from ECNU in 2020. 
 
-His research focuses on Software Quality Analysis and Assurance, particularly in exploring program analysis and applying large language models (LLMs) to enhance software security. 
+His research focuses on Software Quality Analysis and Assurance, in particular combining program analysis with neuro-symbolic reasoning and AI agents to advance vulnerability detection and exploitation. 
 
-💬 kaixuan.li AT ntu.edu.sg
+💬 <span class="email-link" data-u1="kaixuan" data-u2="li" data-h="ntu" data-t1="edu" data-t2="sg" role="button" tabindex="0" aria-label="Send email"></span>
 
 
 # 🔥 News
 
+* <span style="color:#FC4E2A">**2026.05:**</span> I was invited to serve on the Program Committee of FSE 2027 (Research Track). Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.04:**</span> Our work about evidence-based C/C++ binary third-party library detection was accepted at ISSTA 2026.
-* <span style="color:#FC4E2A">**2026.02:**</span> I was selected as an ICSE 2027 PC member within the research track. Welcome to submit your papers.
+* <span style="color:#FC4E2A">**2026.02:**</span> I was to serve on the Program Committee of ICSE 2027 (Research Track). Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI).
 * <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
 
@@ -44,9 +45,9 @@ His research focuses on Software Quality Analysis and Assurance, particularly in
 
 Recently, I have been maintaining three curated, community-maintained literature repositories:
 
-- [Hypervisor Testing: Techniques, Challenges, and Future Directions](https://marklee131.github.io/Hypervisor-Testing-Survey/).
-- [Static Analyzer Research Papers](https://marklee131.github.io/Static-Analyzer-Research/)
-- [Proof-of-Concept (PoC) Research Papers](https://marklee131.github.io/PoC-Research-Papers/). 
+- [Hypervisor Testing: Techniques, Challenges, and Future Directions](https://marklee131.github.io/Hypervisor-Testing-Survey/) [![](https://img.shields.io/github/stars/MarkLee131/Hypervisor-Testing-Survey?style=flat-square&logo=github&label=%E2%98%85)](https://github.com/MarkLee131/Hypervisor-Testing-Survey)
+- [Static Analyzer Research Papers](https://marklee131.github.io/Static-Analyzer-Research/) [![](https://img.shields.io/github/stars/MarkLee131/Static-Analyzer-Research?style=flat-square&logo=github&label=%E2%98%85)](https://github.com/MarkLee131/Static-Analyzer-Research)
+- [Proof-of-Concept (PoC) Research Papers](https://marklee131.github.io/PoC-Research-Papers/) [![](https://img.shields.io/github/stars/MarkLee131/PoC-Research-Papers?style=flat-square&logo=github&label=%E2%98%85)](https://github.com/MarkLee131/PoC-Research-Papers)
 
 The goal is to provide a structured, continuously updated overview of the fields and to reduce repeated literature collection efforts. Contributions, corrections, and suggestions are very welcome.
 
@@ -68,9 +69,10 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
   - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2026 (to appear)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3811034) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
   - Maoyi Xie, **Kaixuan Li**\*, Jingquan Ge, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, and Yang Liu
-  - *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026 (to appear)
+  - *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026
+  - [https://dl.acm.org/doi/10.1145/3811034](https://dl.acm.org/doi/10.1145/3811034)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/OOPSLA-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3798272) **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
   - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
@@ -86,9 +88,10 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026
   - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2026-blue?style=flat-square)](https://doi.org/10.1109/TSE.2026.3678424) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
-  - *IEEE Transactions on Software Engineering (TSE)*, 2025 (to appear)
+  - *IEEE Transactions on Software Engineering (TSE)*, 2026 (Early Access, pp. 1-17)
+  - [https://doi.org/10.1109/TSE.2026.3678424](https://doi.org/10.1109/TSE.2026.3678424)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2026-blue?style=flat-square)](https://arxiv.org/abs/2511.06762) **Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects**
   - Rui Lu, Lyuye Zhang, **Kaixuan Li**\*, Min Zhang, and Yixiang Chen
@@ -112,9 +115,10 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025
   - [https://doi.org/10.1109/ASE63991.2025.00017](https://doi.org/10.1109/ASE63991.2025.00017)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](https://arxiv.org/pdf/2403.06838.pdf) **Acfix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square)](https://doi.org/10.1109/TSE.2025.3590108) [![](https://img.shields.io/badge/ICSE-2026_J1-1f6feb?style=flat-square)](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers) **ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
   - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
-  - *IEEE Transactions on Software Engineering (TSE)*, 2024
+  - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025. Invited to the ICSE 2026 Journal-First track.
+  - [https://doi.org/10.1109/TSE.2025.3590108](https://doi.org/10.1109/TSE.2025.3590108)
   - [*Preprint: https://arxiv.org/pdf/2403.06838.pdf*](https://arxiv.org/pdf/2403.06838.pdf)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](http://arxiv.org/abs/2410.20740) **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
@@ -177,16 +181,15 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 # 📚 Academic Services
 
 ## Program Committee Member
-- [ICSE 2027](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee), [PLDI 2026 Student Research Competition](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee), [ICSE 2026](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track), [ICSE 2026 SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice), [FSE 2026](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee), [PLDI 2025 Artifact Evaluation](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee), [AILA 2025](http://ailasym.com/AILA2025/AILA2025.html)
+
+- **2027**: [![](https://img.shields.io/badge/FSE-2027-2ea44f?style=flat-square)](https://conf.researchr.org/committee/fse-2027/fse-2027-papers-program-committee) Research Track · [![](https://img.shields.io/badge/ICSE-2027-1f6feb?style=flat-square)](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee) Research Track
+- **2026**: [![](https://img.shields.io/badge/FSE-2026-2ea44f?style=flat-square)](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee) Research Track · [![](https://img.shields.io/badge/ICSE-2026-1f6feb?style=flat-square)](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track) Research Track · [![](https://img.shields.io/badge/ICSE_SEIP-2026-fb8c00?style=flat-square)](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice) SEIP · [![](https://img.shields.io/badge/PLDI-2026-8957e5?style=flat-square)](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee) Student Research Competition
+- **2025**: [![](https://img.shields.io/badge/PLDI-2025-8957e5?style=flat-square)](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee) Artifact Evaluation · [![](https://img.shields.io/badge/AILA-2025-c62828?style=flat-square)](http://ailasym.com/AILA2025/AILA2025.html) AILA Symposium  · [![](https://img.shields.io/badge/ICSE-2025-1f6feb?style=flat-square)](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc) Shadow PC, Research Track
+- **2024**: [![](https://img.shields.io/badge/MSR-2024-1f6feb?style=flat-square)](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee) Junior PC, Technical Papers
 
 ## Journal Reviewer
-- [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
-- [TOSEM](https://dl.acm.org/journal/tosem)
-- [Cybersecurity](https://cybersecurity.springeropen.com/)
-- [Journal of Big Data](https://link.springer.com/journal/40537)
 
-## Junior Program Committee Member
-- [ICSE 2025](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc), [MSR 2024](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee)
+[TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) &nbsp;·&nbsp; [TOSEM](https://dl.acm.org/journal/tosem) &nbsp;·&nbsp; [Cybersecurity](https://cybersecurity.springeropen.com/) &nbsp;·&nbsp; [Journal of Big Data](https://link.springer.com/journal/40537)
 
 
 # 🎖 Honors and Awards
@@ -224,7 +227,41 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
         margin-right: auto;
         display: block;
     }
+
+    .email-link {
+        cursor: pointer;
+        color: inherit;
+        text-decoration: underline;
+        text-decoration-style: dotted;
+    }
+    .email-link::before {
+        content: attr(data-u1) "." attr(data-u2) "\0040" attr(data-h) "." attr(data-t1) "." attr(data-t2);
+    }
+    .email-link:hover,
+    .email-link:focus {
+        color: #2a7ae2;
+        text-decoration-style: solid;
+        outline: none;
+    }
 </style>
+
+<script>
+(function () {
+    document.querySelectorAll('.email-link').forEach(function (el) {
+        function open() {
+            var u = el.getAttribute('data-u1') + '.' + el.getAttribute('data-u2');
+            var d = el.getAttribute('data-h') + '.' + el.getAttribute('data-t1') + '.' + el.getAttribute('data-t2');
+            var addr = u + String.fromCharCode(64) + d;
+            try { if (navigator.clipboard) navigator.clipboard.writeText(addr); } catch (_) {}
+            window.location.href = 'mailto:' + addr;
+        }
+        el.addEventListener('click', open);
+        el.addEventListener('keydown', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); }
+        });
+    });
+})();
+</script>
 
 <div id="clustrmaps-container">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xK73SrbAAKlYLUs8vmvb2TVShV7x81eqT_FAU02nk90&cl=ffffff&w=a"></script>
