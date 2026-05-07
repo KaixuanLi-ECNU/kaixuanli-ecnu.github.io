@@ -87,6 +87,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026
   - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)
+  - [*Preprint*](./papers/kaixuan-FSE26_GadgetHunter.pdf)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2026-blue?style=flat-square)](https://doi.org/10.1109/TSE.2026.3678424) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
