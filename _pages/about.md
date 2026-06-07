@@ -28,15 +28,16 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 
 # 🔥 News
 
+* <span style="color:#FC4E2A">**2026.06:**</span> I received the Gemini Academic Program Award from Google Cloud.
 * <span style="color:#FC4E2A">**2026.05:**</span> I was invited to serve on the Program Committee of FSE 2027 (Research Track). Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.04:**</span> Our work about evidence-based C/C++ binary third-party library detection was accepted at ISSTA 2026.
 * <span style="color:#FC4E2A">**2026.02:**</span> I was invited to serve on the Program Committee of ICSE 2027 (Research Track). Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.01:**</span> I was awarded the "Young Outstanding Paper Award" by the Shanghai Association of Artificial Intelligence (SAAI).
-* <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
 
 <details class="news-more" markdown="1">
 <summary>Show earlier news</summary>
 
+* <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
 * <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU.
 
 </details>
@@ -198,6 +199,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 # ✨ Honors and Awards
 
+* Gemini Academic Program Award from Google Cloud, 2026.
 * Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
 * [The distinguished Ph.D. thesis at East China Normal University](https://yjsy.ecnu.edu.cn/0f/86/c42079a724870/page.htm), 2025.
 * The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2025.
