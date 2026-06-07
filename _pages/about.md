@@ -199,7 +199,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 # ✨ Honors and Awards
 
-* Gemini Academic Program Award from Google Cloud, 2026.
+* Gemini Academic Program Award from Google Cloud, 2026. (Project: *Reflective Cyber Reasoning*)
 * Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
 * [The distinguished Ph.D. thesis at East China Normal University](https://yjsy.ecnu.edu.cn/0f/86/c42079a724870/page.htm), 2025.
 * The distinguished Ph.D. thesis at the College of Information Technology, East China Normal University, 2025.
@@ -208,7 +208,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 * [The President Scholarship of East China Normal University (Graduate)](https://zizhu.ecnu.edu.cn/13/eb/c41428a660459/page.htm), 2024.
 * Merit Student of East China Normal University, 2023-2024.
 * [National Scholarship, Ministry of Education, China, 2024.](/images/National_Scholarship_Kaixuan_Li.jpg)
-* ACM SIGSOFT Distinguished Paper award, FSE 2024, 2024.
+* [ACM SIGSOFT Distinguished Paper award, FSE 2024](https://2024.esec-fse.org/info/awards), 2024.
 * "Student Technological Excellence" Award (学生科技英才) @SEI, East China Normal University, 2024.
 * Visiting Ph.D. Student Scholarship of China Scholarship Council, 2022-2023.
 * Merit Student of East China Normal University, 2022-2023.
