@@ -197,7 +197,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - [Cybersecurity](https://cybersecurity.springeropen.com/) (Springer Cybersecurity)
 
 
-# 🎤 Invited Talks and Presentations
+# 🎤 Invited Talks
 
 - *2026.07*: "Organizing Vulnerability Knowledge for OpenHarmony." Huawei, Shenzhen, China.
 - *2026.05*: "Neuro-Symbolic Vulnerability Detection and Exploitation." East China Normal University, Shanghai, China.
