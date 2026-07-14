@@ -197,6 +197,13 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - [Cybersecurity](https://cybersecurity.springeropen.com/) (Springer Cybersecurity)
 
 
+# 🎤 Invited Talks and Presentations
+
+- *2026.07*: "Organizing Vulnerability Knowledge for OpenHarmony." Huawei, Shenzhen, China.
+- *2026.05*: "Neuro-Symbolic Vulnerability Detection and Exploitation." East China Normal University, Shanghai, China.
+- *2025.04*: "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software." CCF Technical Committee on Formal Methods, Youth Forum.
+- *2024.12*: "Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?" Xi'an Jiaotong University, Xi'an, China.
+
 # ✨ Honors and Awards
 
 * Gemini Academic Program Award from Google Cloud, 2026. (Project: *Reflective Cyber Reasoning*)
