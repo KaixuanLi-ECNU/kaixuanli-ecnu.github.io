@@ -28,6 +28,7 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 
 # 🔥 News
 
+* <span style="color:#FC4E2A">**2026.07:**</span> I was invited to serve on the Program Committee of USENIX Security 2027. Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.06:**</span> I received the Gemini Academic Program Award from Google Cloud.
 * <span style="color:#FC4E2A">**2026.05:**</span> I was invited to serve on the Program Committee of FSE 2027 (Research Track). Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.04:**</span> Our work about evidence-based C/C++ binary third-party library detection was accepted at ISSTA 2026.
@@ -184,7 +185,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 ## Program Committee Member
 
-- **2027**: [ICSE](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee) Research Track · [FSE](https://conf.researchr.org/committee/fse-2027/fse-2027-papers-program-committee) Research Track
+- **2027**: [USENIX Security](https://www.usenix.org/conference/usenixsecurity27) · [ICSE](https://conf.researchr.org/committee/icse-2027/icse-2027-research-track-program-committee) Research Track · [FSE](https://conf.researchr.org/committee/fse-2027/fse-2027-papers-program-committee) Research Track
 - **2026**: [ICSE](https://conf.researchr.org/committee/icse-2026/icse-2026-research-track-research-track) Research Track · [ICSE SEIP](https://conf.researchr.org/committee/icse-2026/icse-2026-software-engineering-in-practice-software-engineering-in-practice) · [FSE](https://conf.researchr.org/committee/fse-2026/fse-2026-research-papers-program-committee) Research Track · [PLDI](https://pldi26.sigplan.org/committee/pldi-2026-src-program-committee) Student Research Competition
 - **2025**: [ICSE](https://conf.researchr.org/committee/icse-2025/icse-2025-shadow-research-track-program-committee-shadow-pc) Shadow PC, Research Track · [PLDI](https://pldi25.sigplan.org/committee/pldi-2025-pldi-research-artifacts-artifact-evaluation-committee) Artifact Evaluation · [AILA](http://ailasym.com/AILA2025/AILA2025.html) Symposium
 - **2024**: [MSR](https://2024.msrconf.org/committee/msr-2024-junior-pc-technical-papers---junior-program-committee) Junior PC, Technical Papers
