@@ -67,6 +67,10 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 ----
 
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ASE-2026-blue?style=flat-square) **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
+  - Meilin Li^, **Kaixuan Li**^, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
+  - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2026 (to appear)
+
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
   - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
   - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2026 (to appear)
