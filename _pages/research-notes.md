@@ -11,7 +11,7 @@ redirect_from:
 
 # 🗂️ Research Notes
 
-A personal collection of research advice and materials I keep coming back to: how to do research, write, present, and navigate a Ph.D. and an academic career. Most links are curated from the advice pages of Tao Xie and Ting Su (see [References](#-references) at the bottom). All links were checked and were reachable at the time of writing.
+A personal collection of research advice and materials I keep coming back to: how to do research, write, present, and navigate a Ph.D. and an academic career.
 
 # 🧭 Getting Started & Doing Research
 
