@@ -53,6 +53,8 @@ Recently, I have been maintaining three curated, community-maintained literature
 
 The goal is to provide a structured, continuously updated overview of the fields and to reduce repeated literature collection efforts. Contributions, corrections, and suggestions are very welcome.
 
+I also keep a page of [**Research Notes**](/research-notes/): curated research advice (slides, blogs, talks) from senior researchers that I keep coming back to.
+
 
 # 📝 Selected Publications
 Notation: * corresponding author, ^ co-first author (as marked in author list). [[Full list]](https://scholar.google.com/citations?user=zmkdR04AAAAJ&hl=en)

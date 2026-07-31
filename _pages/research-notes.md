@@ -80,4 +80,4 @@ A personal collection of research advice and materials I keep coming back to: ho
 
 # 📚 References
 
-Most of the links above are curated from the advice collections of [Tao Xie](https://taoxie.cs.illinois.edu/) and [Ting Su](https://tingsu.github.io/). Many thanks to them for compiling and sharing these resources.
+Most of the links above are curated from the advice collections of [Tao Xie](https://taoxie.cs.illinois.edu/) and [Ting Su](https://tingsu.github.io/), and from [Andreas Zeller](https://andreas-zeller.info/)'s blog. Many thanks to them for compiling and sharing these resources.
