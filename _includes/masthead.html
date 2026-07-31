@@ -7,9 +7,6 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
-          {% if page.url != "/" %}
-          <li class="masthead__menu-item"><a href="/#about-me">← Back to Homepage</a></li>
-          {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
