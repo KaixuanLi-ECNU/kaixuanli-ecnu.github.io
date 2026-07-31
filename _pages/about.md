@@ -284,5 +284,5 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 </script>
 
 <div id="clustrmaps-container">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xK73SrbAAKlYLUs8vmvb2TVShV7x81eqT_FAU02nk90&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=UehLiYGaHc4lSjhoE2ZRtd1ai5QRmzMMGs8lN0e8Wo0&cl=ffffff&w=a"></script>
 </div>
