@@ -123,7 +123,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025
   - [https://doi.org/10.1109/ASE63991.2025.00017](https://doi.org/10.1109/ASE63991.2025.00017)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square)](https://doi.org/10.1109/TSE.2025.3590108) [![](https://img.shields.io/badge/ICSE-2026_J1-1f6feb?style=flat-square)](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers) **ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square)](https://doi.org/10.1109/TSE.2025.3590108) **ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
   - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
   - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025
   - [https://doi.org/10.1109/TSE.2025.3590108](https://doi.org/10.1109/TSE.2025.3590108)
