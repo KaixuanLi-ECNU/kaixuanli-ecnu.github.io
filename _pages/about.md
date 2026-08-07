@@ -39,7 +39,7 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 <summary>Show earlier news</summary>
 
 * <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
-* <span style="color:#FC4E2A">**2025.11:**</span> Our FSE 2023 study on SAST tools for Java and its [Java CVE Benchmark](https://github.com/MarkLee131/Java_CVE_Bench) were featured in the OWASP Global AppSec USA 2025 (Washington, DC) talk [*Benchmarking Scanner Blind Spots*](https://owaspglobalappsecusa2025.sched.com/event/28BYv/benchmarking-scanner-blind-spots-how-runtime-context-uncovers-hidden-vulns) by Apostolos Giannakidis (Principal Product Security Engineer, Microsoft).
+* <span style="color:#FC4E2A">**2025.11:**</span> A Microsoft Identity security engineer, Apostolos Giannakidis (Principal Product Security Engineer), highlighted our FSE 2023 study on SAST tools for Java and its [Java CVE Benchmark](https://github.com/MarkLee131/Java_CVE_Bench) in his OWASP Global AppSec USA 2025 (Washington, DC) talk [*Benchmarking Scanner Blind Spots*](https://owaspglobalappsecusa2025.sched.com/event/28BYv/benchmarking-scanner-blind-spots-how-runtime-context-uncovers-hidden-vulns).
 * <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU.
 
 </details>
