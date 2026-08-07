@@ -125,9 +125,10 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square)](https://doi.org/10.1109/TSE.2025.3590108) [![](https://img.shields.io/badge/ICSE-2026_J1-1f6feb?style=flat-square)](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers) **ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
   - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
-  - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025. Invited to the ICSE 2026 Journal-First track.
+  - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025
   - [https://doi.org/10.1109/TSE.2025.3590108](https://doi.org/10.1109/TSE.2025.3590108)
   - [*Preprint: https://arxiv.org/pdf/2403.06838.pdf*](https://arxiv.org/pdf/2403.06838.pdf)
+  - ✨ *Invited to the [ICSE 2026 Journal-First track](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers).*
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](http://arxiv.org/abs/2410.20740) **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
   - Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie
