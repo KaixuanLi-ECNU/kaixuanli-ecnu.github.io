@@ -39,6 +39,7 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 <summary>Show earlier news</summary>
 
 * <span style="color:#FC4E2A">**2025.12:**</span> Two papers for Neuro-Symbolic vulnerability detection were accepted to FSE 2026 and TSE, respectively.
+* <span style="color:#FC4E2A">**2025.11:**</span> Our FSE 2023 study on SAST tools for Java and its [Java CVE Benchmark](https://github.com/MarkLee131/Java_CVE_Bench) were featured in an OWASP Global AppSec USA 2025 (Washington, DC) talk on SAST benchmarking by Apostolos Giannakidis (Principal Security Engineer, Microsoft).
 * <span style="color:#FC4E2A">**2025.11:**</span> My Ph.D. thesis was awarded "The distinguished Ph.D. thesis" at ECNU.
 
 </details>
@@ -162,6 +163,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - **Kaixuan Li**^, Sen Chen^, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, and Yixiang Chen
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023
   - [https://doi.org/10.1145/3611643.3616262](https://doi.org/10.1145/3611643.3616262)
+  - Benchmark: [Java_CVE_Bench](https://github.com/MarkLee131/Java_CVE_Bench). *Featured in an OWASP Global AppSec USA 2025 talk on SAST benchmarking by a Principal Security Engineer at Microsoft.*
 
 - [![](https://img.shields.io/badge/JoS-2023-blue?style=flat-square)](http://www.jos.org.cn/1000-9825/6592.htm) **Survey on Trustworthiness Measurement for Artificial Intelligence Systems**
   - Han Liu, **Kaixuan Li**, and Yixiang Chen
