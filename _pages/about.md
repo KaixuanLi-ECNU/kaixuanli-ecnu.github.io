@@ -163,7 +163,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - **Kaixuan Li**^, Sen Chen^, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, and Yixiang Chen
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023
   - [https://doi.org/10.1145/3611643.3616262](https://doi.org/10.1145/3611643.3616262)
-  - Benchmark: [Java_CVE_Bench](https://github.com/MarkLee131/Java_CVE_Bench). *Featured in the OWASP Global AppSec USA 2025 talk [Benchmarking Scanner Blind Spots](https://owaspglobalappsecusa2025.sched.com/event/28BYv/benchmarking-scanner-blind-spots-how-runtime-context-uncovers-hidden-vulns) by a Principal Product Security Engineer at Microsoft.*
+  - Benchmark: [Java_CVE_Bench](https://github.com/MarkLee131/Java_CVE_Bench); featured in an [OWASP Global AppSec USA 2025 talk](https://owaspglobalappsecusa2025.sched.com/event/28BYv/benchmarking-scanner-blind-spots-how-runtime-context-uncovers-hidden-vulns).
 
 - [![](https://img.shields.io/badge/JoS-2023-blue?style=flat-square)](http://www.jos.org.cn/1000-9825/6592.htm) **Survey on Trustworthiness Measurement for Artificial Intelligence Systems**
   - Han Liu, **Kaixuan Li**, and Yixiang Chen
