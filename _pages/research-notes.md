@@ -24,6 +24,7 @@ A personal collection of research advice and materials I keep coming back to: ho
 - **Research ideas** — Marco Tulio Ribeiro. [Coming up with them](https://medium.com/@marcotcr/coming-up-with-research-ideas-3032682e5852) · [Organizing and evaluating them](https://medium.com/@marcotcr/organizing-and-evaluating-research-ideas-e137637b599e)
 - [Low-Level Advice for Systems Research](https://lalith.in/2020/09/27/Low-Level-Advice-For-Systems-Research/) — Lalith Suresh
 - [The Heilmeier Catechism](https://www.darpa.mil/about-us/heilmeier-catechism) — DARPA (framing a research program)
+- [How to Win a Best Paper Award (an opinionated take on how to do important research)](https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html) — Nicholas Carlini
 - [科研筑基（全 10 讲）](https://www.bilibili.com/video/BV14FGc6LEVb/) — Yue Li, Nanjing University (Bilibili, in Chinese)
 - [Introductory Readings of Software Testing Research](https://taoxie.cs.illinois.edu/testingreadings.html) — Tao Xie
 - [Research Skills](https://taoxie.cs.illinois.edu/advice/researchskills.pdf) — Tao Xie
@@ -55,6 +56,7 @@ A personal collection of research advice and materials I keep coming back to: ho
 - [Tools and Tips for Writing Papers](https://taoxie.cs.illinois.edu/publications/writingtools.html) — Tao Xie
 - [Common Technical Writing Issues](https://www.slideshare.net/slideshow/common-technical-writing-issues-61264106/61264106) — Tao Xie (slides)
 - [Checklist for Preparing Camera-Ready Versions](https://sites.google.com/site/asergrp/cameraready) — Tao Xie
+- [How To Write A Dissertation](https://www.cs.purdue.edu/homes/dec/essay.dissertation.html) — Douglas E. Comer
 - [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) — Henning Schulzrinne
 - [Why I Gave Your Paper a Strong Reject](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html) — Matt Welsh
 - [9 Ways to Turn a Boring Topic Into an Engaging Presentation](https://magneticspeaking.com/8-ways-to-transform-boring-topic-into-engaging-presentation/) — Peter Khoury
