@@ -80,6 +80,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - Maoyi Xie, **Kaixuan Li**\*, Jingquan Ge, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, and Yang Liu
   - *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026
   - [https://dl.acm.org/doi/10.1145/3811034](https://dl.acm.org/doi/10.1145/3811034)
+  - Parts of ARASH have been integrated into Google's [OSS-Fuzz-Gen](https://github.com/google/oss-fuzz-gen).
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/OOPSLA-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3798272) **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
   - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
