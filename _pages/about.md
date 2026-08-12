@@ -202,6 +202,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) (IEEE Transactions on Software Engineering)
 - [TOSEM](https://dl.acm.org/journal/tosem) (ACM Transactions on Software Engineering and Methodology)
 - [TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858) (IEEE Transactions on Dependable and Secure Computing)
+- [EMSE](https://link.springer.com/journal/10664) (Springer Empirical Software Engineering)
 - [Cybersecurity](https://cybersecurity.springeropen.com/) (Springer Cybersecurity)
 - [FCS](https://link.springer.com/journal/11704) (Frontiers of Computer Science)
 - [TBD](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317) (IEEE Transactions on Big Data)
