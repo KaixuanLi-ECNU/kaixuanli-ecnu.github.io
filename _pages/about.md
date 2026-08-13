@@ -152,8 +152,9 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://doi.org/10.1145/3660772) **Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?**
   - **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen
-  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2024 [<font color="red">ACM SIGSOFT Distinguished Paper Award</font>](https://2024.esec-fse.org/info/awards)
+  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2024
   - [https://doi.org/10.1145/3660772](https://doi.org/10.1145/3660772)
+  - ✨ [<span style="color:#224b8d"><strong>ACM SIGSOFT Distinguished Paper Award</strong></span>](https://2024.esec-fse.org/info/awards)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616270) **Demystifying the Composition and Code Reuse in Solidity Smart Contracts**
   - Kairan Sun, Zhengzi Xu, Chengwei Liu, **Kaixuan Li**, and Yang Liu
