@@ -219,6 +219,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 # ✨ Honors and Awards
 
+* Z.ai Cyber Security Partnership Program, 2026.
 * Gemini Academic Program Award from Google Cloud, 2026. (Project: *Reflective Cyber Reasoning*)
 * Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
 * [The distinguished Ph.D. thesis at East China Normal University](https://yjsy.ecnu.edu.cn/0f/86/c42079a724870/page.htm), 2025.
