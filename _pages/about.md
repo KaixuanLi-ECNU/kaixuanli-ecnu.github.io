@@ -71,6 +71,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ASE-2026-blue?style=flat-square) **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
   - Meilin Li^, **Kaixuan Li**^, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2026 (to appear)
+  - [*Preprint*](./papers/ASE26_SAFuzzer-zifan.pdf)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
   - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
@@ -154,7 +155,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2024
   - [https://doi.org/10.1145/3660772](https://doi.org/10.1145/3660772)
-  - ✨ [<span style="color:#224b8d"><strong>ACM SIGSOFT Distinguished Paper Award</strong></span>](https://2024.esec-fse.org/info/awards)
+  - ✨ <a href="https://2024.esec-fse.org/info/awards" style="background:#e6f0ff;color:#0b57d0;font-weight:700;padding:1px 7px;border-radius:4px;text-decoration:none;">ACM SIGSOFT Distinguished Paper Award</a>
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616270) **Demystifying the Composition and Code Reuse in Solidity Smart Contracts**
   - Kairan Sun, Zhengzi Xu, Chengwei Liu, **Kaixuan Li**, and Yang Liu
