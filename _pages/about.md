@@ -182,13 +182,17 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 # 💻 Teaching
 
-## Teaching Assistant
+- SC2006 Software Engineering
+  - Tutor for four tutorial groups (SCMB, SCEC, SCMC, SCE1)
+  - Undergraduate course, Nanyang Technological University, 2026.08-2026.11, with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/)
 
 - Hardware-Software Co-design (软硬件协同设计)
-  - Post-graduate course, East China Normal University, 2021.09-2022.01
+  - Teaching Assistant
+  - Post-graduate course, East China Normal University, 2021.09-2022.01, with [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp)
 
 - Optimization and design of intelligent systems (智能系统优化设计)
-  - Undergraduate course, East China Normal University, 2021.02-2021.06
+  - Teaching Assistant
+  - Undergraduate course, East China Normal University, 2021.02-2021.06, with [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp)
 
 # 📚 Academic Services
 
