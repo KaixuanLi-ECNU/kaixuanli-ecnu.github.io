@@ -22,6 +22,9 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
+      {% if author.cv %}
+        <li><a href="{{ author.cv }}" target="_blank" rel="noopener"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> Curriculum Vitae</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
       {% endif %}
@@ -117,6 +120,9 @@
 {% endif %}
     </ul>
       <div class="author__urls_sm">
+      {% if author.cv %}
+        <a href="{{ author.cv }}" target="_blank" rel="noopener" title="Curriculum Vitae"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a>
+      {% endif %}
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
