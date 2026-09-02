@@ -56,6 +56,8 @@ A personal collection of research advice and materials I keep coming back to: ho
 - [Tools and Tips for Writing Papers](https://taoxie.cs.illinois.edu/publications/writingtools.html) — Tao Xie
 - [Common Technical Writing Issues](https://www.slideshare.net/slideshow/common-technical-writing-issues-61264106/61264106) — Tao Xie (slides)
 - [Checklist for Preparing Camera-Ready Versions](https://sites.google.com/site/asergrp/cameraready) — Tao Xie
+- [Advice on Technical Writing](https://docs.google.com/document/d/1EKhufclxlvF0RDA3oR0Dp02iTH5biCDguE7Ou7Sprzo/edit) — Rich Sutton (Google Doc)
+- [Advice for Writing Peer Reviews](http://www.incompleteideas.net/IncIdeas/ReviewAdvice.html) — Rich Sutton
 - [How To Write A Dissertation](https://www.cs.purdue.edu/homes/dec/essay.dissertation.html) — Douglas E. Comer
 - [Common Bugs in Writing](http://www.cs.columbia.edu/~hgs/etc/writing-bugs.html) — Henning Schulzrinne
 - [Why I Gave Your Paper a Strong Reject](http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html) — Matt Welsh
