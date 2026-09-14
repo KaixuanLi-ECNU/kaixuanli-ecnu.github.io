@@ -217,7 +217,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 # 🎤 Invited Talks
 
-- *2026.09*: "Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice." CCF Technical Committee on Software Engineering (TCSE), Young Scholars Forum, Zhejiang University, Hangzhou, China.
+- *2026.09*: "Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice." CCF Technical Committee on Software Engineering, Young Scholars Forum, Zhejiang University, Hangzhou, China.
 - *2026.07*: "Organizing Vulnerability Knowledge for OpenHarmony." Huawei, Shenzhen, China.
 - *2026.05*: "Neuro-Symbolic Vulnerability Detection and Exploitation." East China Normal University, Shanghai, China.
 - *2025.04*: "PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software." CCF Technical Committee on Formal Methods, Young Scholars Forum.
