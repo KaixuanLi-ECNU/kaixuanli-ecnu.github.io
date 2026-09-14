@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") is a postdoctoral research fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). 
+[Kaixuan Li](https://kaixuanli-ecnu.github.io/) (The "X" in "Kaixuan" is pronounced like the "sh" in "shear") is a postdoctoral research fellow at the [Cyber Security Research Centre @ NTU (CYSREN)](https://www.ntu.edu.sg/cysren), [Nanyang Technological University](https://www.ntu.edu.sg/), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). 
 He got his Ph.D. degree from the Software Engineering Institute at [East China Normal University (ECNU)](https://www.ecnu.edu.cn/), under the supervision of [Prof. Yixiang Chen](https://faculty.ecnu.edu.cn/_s43/cyx/main.psp). 
 Before that, he received a B.S. degree in Software Engineering from ECNU in 2020. 
 
@@ -28,6 +28,7 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 
 # 🔥 News
 
+* <span style="color:#FC4E2A">**2026.09:**</span> My Ph.D. thesis was selected for the 2026 Doctoral Dissertation Incentive Program of the CCF Technical Committee on Software Engineering (TCSE).
 * <span style="color:#FC4E2A">**2026.07:**</span> I was invited to serve on the Program Committee of USENIX Security 2027. Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.06:**</span> I received the Gemini Academic Program Award from Google Cloud.
 * <span style="color:#FC4E2A">**2026.05:**</span> I was invited to serve on the Program Committee of FSE 2027 (Research Track). Welcome to submit your papers.
@@ -223,6 +224,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 # ✨ Honors and Awards
 
+* Doctoral Dissertation Incentive Program, CCF Technical Committee on Software Engineering (TCSE)（中国计算机学会软件工程专业委员会博士学位论文激励计划）, 2026.
 * Z.ai Cyber Security Partnership Program, 2026.
 * Gemini Academic Program Award from Google Cloud, 2026. (Project: *Reflective Cyber Reasoning*)
 * Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
