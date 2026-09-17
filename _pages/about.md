@@ -28,6 +28,7 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 
 # 🔥 News
 
+* <span style="color:#FC4E2A">**2026.09:**</span> Our ISSTA 2026 paper on evidence-based C/C++ binary third-party library detection received an ACM SIGSOFT Distinguished Paper Award.
 * <span style="color:#FC4E2A">**2026.09:**</span> My Ph.D. thesis was selected for the 2026 Doctoral Dissertation Incentive Program of the CCF Technical Committee on Software Engineering (TCSE).
 * <span style="color:#FC4E2A">**2026.07:**</span> I was invited to serve on the Program Committee of USENIX Security 2027. Welcome to submit your papers.
 * <span style="color:#FC4E2A">**2026.06:**</span> I received the Gemini Academic Program Award from Google Cloud.
@@ -72,11 +73,13 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ASE-2026-blue?style=flat-square) **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
   - Meilin Li^, **Kaixuan Li**^, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2026 (to appear)
-  - [*Preprint*](./papers/ASE26_SAFuzzer-zifan.pdf)
+  - [*Preprint*](./papers/ASE26_SAFuzzer.pdf)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square)](https://doi.org/10.1145/3832125) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
   - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
-  - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2026 (to appear)
+  - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2026
+  - [https://doi.org/10.1145/3832125](https://doi.org/10.1145/3832125)     （[*Preprint Version*](./papers/ISSTA26_BLADE.pdf)）
+  - ✨ <a href="https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/34/Beyond-Similarity-Scores-Evidence-Based-Third-Party-Library-Detection-for-C-C-Bina" style="background:#e6f0ff;color:#0b57d0;font-weight:700;padding:1px 7px;border-radius:4px;text-decoration:none;">ACM SIGSOFT Distinguished Paper Award</a>
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3811034) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
   - Maoyi Xie, **Kaixuan Li**\*, Jingquan Ge, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, and Yang Liu
@@ -96,7 +99,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square)](https://doi.org/10.1145/3797065) **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026
-  - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)     （[*Preprint Version*](./papers/kaixuan-FSE26_GadgetHunter.pdf)）
+  - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)     （[*Preprint Version*](./papers/FSE26_GadgetHunter.pdf)）
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2026-blue?style=flat-square)](https://doi.org/10.1109/TSE.2026.3678424) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
@@ -225,6 +228,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 # ✨ Honors and Awards
 
+* [ACM SIGSOFT Distinguished Paper Award, ISSTA 2026](https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/34/Beyond-Similarity-Scores-Evidence-Based-Third-Party-Library-Detection-for-C-C-Bina), 2026.
 * Doctoral Dissertation Incentive Program, CCF Technical Committee on Software Engineering (TCSE)（中国计算机学会软件工程专业委员会博士学位论文激励计划）, 2026.
 * Z.ai Cyber Security Partnership Program, 2026.
 * Gemini Academic Program Award from Google Cloud, 2026. (Project: *Reflective Cyber Reasoning*)
