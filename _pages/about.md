@@ -66,7 +66,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 - **Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study**
   - Wenjing Dang, **Kaixuan Li**^, Sen Chen, Zhenwei Zhuo, Lyuye Zhang, and Zheli Liu
-  - [*Preprint: https://arxiv.org/pdf/2510.18448*](https://arxiv.org/pdf/2510.18448), 2025
+  - [*Preprint: https://arxiv.org/abs/2510.18448*](https://arxiv.org/abs/2510.18448), 2025
 
 ----
 
@@ -78,7 +78,8 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square)](https://doi.org/10.1145/3832125) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
   - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
   - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2026
-  - [https://doi.org/10.1145/3832125](https://doi.org/10.1145/3832125)     （[*Preprint Version*](./papers/ISSTA26_BLADE.pdf)）
+  - [https://doi.org/10.1145/3832125](https://doi.org/10.1145/3832125)
+  - [*Preprint*](./papers/ISSTA26_BLADE.pdf)
   - ✨ <a href="https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/34/Beyond-Similarity-Scores-Evidence-Based-Third-Party-Library-Detection-for-C-C-Bina" style="background:#e6f0ff;color:#0b57d0;font-weight:700;padding:1px 7px;border-radius:4px;text-decoration:none;">ACM SIGSOFT Distinguished Paper Award</a>
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3811034) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
@@ -99,7 +100,8 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square)](https://doi.org/10.1145/3797065) **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026
-  - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)     （[*Preprint Version*](./papers/FSE26_GadgetHunter.pdf)）
+  - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)
+  - [*Preprint*](./papers/FSE26_GadgetHunter.pdf)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2026-blue?style=flat-square)](https://doi.org/10.1109/TSE.2026.3678424) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
@@ -132,13 +134,13 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
   - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025
   - [https://doi.org/10.1109/TSE.2025.3590108](https://doi.org/10.1109/TSE.2025.3590108)
-  - [*Preprint: https://arxiv.org/pdf/2403.06838.pdf*](https://arxiv.org/pdf/2403.06838.pdf)
+  - [*Preprint: https://arxiv.org/abs/2403.06838*](https://arxiv.org/abs/2403.06838)
   - ✨ *Invited to the [ICSE 2026 Journal-First track](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers).*
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](http://arxiv.org/abs/2410.20740) **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](https://arxiv.org/abs/2410.20740) **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
   - Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie
   - *IEEE Transactions on Software Engineering (TSE)*, 2024
-  - [*Preprint: http://arxiv.org/abs/2410.20740*](http://arxiv.org/abs/2410.20740)
+  - [*Preprint: https://arxiv.org/abs/2410.20740*](https://arxiv.org/abs/2410.20740)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)](https://doi.org/10.1145/3650212.3680305) **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**
   - **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen
