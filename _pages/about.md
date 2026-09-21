@@ -28,6 +28,7 @@ His research focuses on Software Quality Analysis and Assurance, in particular c
 
 # 🔥 News
 
+* <span style="color:#FC4E2A">**2026.09:**</span> Our work on enhancing vulnerability PoC reports from multiple sources was accepted at IEEE TIFS.
 * <span style="color:#FC4E2A">**2026.09:**</span> Our ISSTA 2026 paper on evidence-based C/C++ binary third-party library detection received an ACM SIGSOFT Distinguished Paper Award.
 * <span style="color:#FC4E2A">**2026.09:**</span> My Ph.D. thesis was selected for the 2026 Doctoral Dissertation Incentive Program of the CCF Technical Committee on Software Engineering (TCSE).
 * <span style="color:#FC4E2A">**2026.07:**</span> I was invited to serve on the Program Committee of USENIX Security 2027. Welcome to submit your papers.
@@ -69,6 +70,10 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - [*Preprint: https://arxiv.org/abs/2510.18448*](https://arxiv.org/abs/2510.18448), 2025
 
 ----
+
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square) **Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources**
+  - Wenjing Dang, Lyuye Zhang, Lingxiao Wang, **Kaixuan Li**, Mengyao Zhao, Xiaohong Li, and Sen Chen
+  - *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026 (to appear)
 
 - ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ASE-2026-blue?style=flat-square) **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
   - Meilin Li^, **Kaixuan Li**^, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
