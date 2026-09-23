@@ -69,51 +69,55 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - Wenjing Dang, **Kaixuan Li**^, Sen Chen, Zhenwei Zhuo, Lyuye Zhang, and Zheli Liu
   - [*Preprint: https://arxiv.org/abs/2510.18448*](https://arxiv.org/abs/2510.18448), 2025
 
+- **VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software**
+  - Lyuye Zhang, Jian Zhang, **Kaixuan Li**, Chong Wang, Chengwei Liu, Jiahui Wu, Sen Chen, Yaowen Zheng, and Yang Liu
+  - [*Preprint: https://arxiv.org/abs/2506.18050*](https://arxiv.org/abs/2506.18050), 2025
+
 ----
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square) **Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources**
+- ![](https://img.shields.io/badge/TIFS-2026-blue?style=flat-square) **Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources**
   - Wenjing Dang, Lyuye Zhang, Lingxiao Wang, **Kaixuan Li**, Mengyao Zhao, Xiaohong Li, and Sen Chen
   - *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026 (to appear)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/ASE-2026-blue?style=flat-square) **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
+- ![](https://img.shields.io/badge/ASE-2026-blue?style=flat-square) **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
   - Meilin Li^, **Kaixuan Li**^, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2026 (to appear)
   - [*Preprint*](./papers/ASE26_SAFuzzer.pdf)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square)](https://doi.org/10.1145/3832125) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
+- [![](https://img.shields.io/badge/ISSTA-2026-blue?style=flat-square)](https://doi.org/10.1145/3832125) **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
   - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
   - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2026
   - [https://doi.org/10.1145/3832125](https://doi.org/10.1145/3832125)
   - [*Preprint*](./papers/ISSTA26_BLADE.pdf)
   - ✨ <a href="https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/34/Beyond-Similarity-Scores-Evidence-Based-Third-Party-Library-Detection-for-C-C-Bina" style="background:#e6f0ff;color:#0b57d0;font-weight:700;padding:1px 7px;border-radius:4px;text-decoration:none;">ACM SIGSOFT Distinguished Paper Award</a>
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3811034) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
+- [![](https://img.shields.io/badge/TOSEM-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3811034) **ARASH: Token-Efficient LLM-Assisted Crash Root Cause Analysis in Fuzz Driver Generation**
   - Maoyi Xie, **Kaixuan Li**\*, Jingquan Ge, Wei Ma, Yuqiang Sun, Ziqiao Kong, Cen Zhang, Dongge Liu, Oliver Chang, and Yang Liu
   - *ACM Transactions on Software Engineering and Methodology (TOSEM)*, 2026
   - [https://dl.acm.org/doi/10.1145/3811034](https://dl.acm.org/doi/10.1145/3811034)
   - ✨ *Adopted in practice: parts integrated into [Google's OSS-Fuzz-Gen](https://github.com/google/oss-fuzz-gen).*
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/OOPSLA-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3798272) **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
+- [![](https://img.shields.io/badge/OOPSLA-2026-blue?style=flat-square)](https://dl.acm.org/doi/10.1145/3798272) **Reframing Paths as Logic: Semantic Segmentation for Vulnerability Detection**
   - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
   - *International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2026)*, 2026
   - [https://dl.acm.org/doi/10.1145/3798272](https://dl.acm.org/doi/10.1145/3798272)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square) **Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale**
+- ![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square) **Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale**
   - Chengyue Liu, Zhengzi Xu, **Kaixuan Li**, Jiahui Wu, Sihao Qiu, Siyuan Li, Siyang Xiong, Yang Xiao, and Yang Liu
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 (to appear)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square)](https://doi.org/10.1145/3797065) **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
+- [![](https://img.shields.io/badge/FSE-2026-blue?style=flat-square)](https://doi.org/10.1145/3797065) **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026
   - [https://doi.org/10.1145/3797065](https://doi.org/10.1145/3797065)
   - [*Preprint*](./papers/FSE26_GadgetHunter.pdf)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2026-blue?style=flat-square)](https://doi.org/10.1109/TSE.2026.3678424) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
+- [![](https://img.shields.io/badge/TSE-2026-blue?style=flat-square)](https://doi.org/10.1109/TSE.2026.3678424) **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
   - *IEEE Transactions on Software Engineering (TSE)*, 2026 (Early Access, pp. 1-17)
   - [https://doi.org/10.1109/TSE.2026.3678424](https://doi.org/10.1109/TSE.2026.3678424)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2026-blue?style=flat-square)](https://arxiv.org/abs/2511.06762) **Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects**
+- [![](https://img.shields.io/badge/ICSE-2026-blue?style=flat-square)](https://arxiv.org/abs/2511.06762) **Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects**
   - Rui Lu, Lyuye Zhang, **Kaixuan Li**\*, Min Zhang, and Yixiang Chen
   - *ACM/IEEE International Conference on Software Engineering (ICSE)*, 2026
   - [*Preprint: https://arxiv.org/abs/2511.06762*](https://arxiv.org/abs/2511.06762)
@@ -124,30 +128,30 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - [Official Briefings](https://blackhat.com/us-25/briefings/schedule/#let-llm-learn-when-your-static-analyzer-actually-gets-it-46444)
   - [Video](https://www.youtube.com/watch?v=FPzOgf2EGQE)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://doi.org/10.1109/ASE63991.2025.00013) **Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation**
+- [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://doi.org/10.1109/ASE63991.2025.00013) **Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation**
   - Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yebo Feng, Daoyuan Wu, and Yang Liu
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025
   - [https://doi.org/10.1109/ASE63991.2025.00013](https://doi.org/10.1109/ASE63991.2025.00013)
   - [*Preprint*](./papers/ASE25_PoCShift.pdf)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://doi.org/10.1109/ASE63991.2025.00017) **FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization**
+- [![](https://img.shields.io/badge/ASE-2025-blue?style=flat-square)](https://doi.org/10.1109/ASE63991.2025.00017) **FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization**
   - Kairan Sun, Zhengzi Xu, **Kaixuan Li**, Lyuye Zhang, Yuqiang Sun, Liwei Tan, and Yang Liu
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025
   - [https://doi.org/10.1109/ASE63991.2025.00017](https://doi.org/10.1109/ASE63991.2025.00017)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square)](https://doi.org/10.1109/TSE.2025.3590108) **ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
+- [![](https://img.shields.io/badge/TSE-2025-blue?style=flat-square)](https://doi.org/10.1109/TSE.2025.3590108) **ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
   - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
   - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025
   - [https://doi.org/10.1109/TSE.2025.3590108](https://doi.org/10.1109/TSE.2025.3590108)
   - [*Preprint: https://arxiv.org/abs/2403.06838*](https://arxiv.org/abs/2403.06838)
   - ✨ *Invited to the [ICSE 2026 Journal-First track](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers).*
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](https://arxiv.org/abs/2410.20740) **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
+- [![](https://img.shields.io/badge/TSE-2024-blue?style=flat-square)](https://arxiv.org/abs/2410.20740) **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
   - Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie
   - *IEEE Transactions on Software Engineering (TSE)*, 2024
   - [*Preprint: https://arxiv.org/abs/2410.20740*](https://arxiv.org/abs/2410.20740)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)](https://doi.org/10.1145/3650212.3680305) **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**
+- [![](https://img.shields.io/badge/ISSTA-2024-blue?style=flat-square)](https://doi.org/10.1145/3650212.3680305) **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**
   - **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen
   - *ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)*, 2024
   - [https://doi.org/10.1145/3650212.3680305](https://doi.org/10.1145/3650212.3680305)
@@ -157,23 +161,23 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *Communications of Chinese Association for Artificial Intelligence (CCAAI)*, 2024, 14(7): 03-07 (In Chinese)
   - [https://book.yunzhan365.com/poui/tcew/mobile/index.html](https://book.yunzhan365.com/poui/tcew/mobile/index.html)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han) **Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts**
+- [![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han) **Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts**
   - Han Liu, Daoyuan Wu, Yuqiang Sun, Haijun Wang, **Kaixuan Li**, Yang Liu, and Yixiang Chen
   - *USENIX Security Symposium*, 2024
   - [https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://doi.org/10.1145/3660772) **Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?**
+- [![](https://img.shields.io/badge/FSE-2024-blue?style=flat-square)](https://doi.org/10.1145/3660772) **Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?**
   - **Kaixuan Li**, Yue Xue, Sen Chen, Han Liu, Kairan Sun, Ming Hu, Haijun Wang, Yang Liu, and Yixiang Chen
   - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2024
   - [https://doi.org/10.1145/3660772](https://doi.org/10.1145/3660772)
   - ✨ <a href="https://2024.esec-fse.org/info/awards" style="background:#e6f0ff;color:#0b57d0;font-weight:700;padding:1px 7px;border-radius:4px;text-decoration:none;">ACM SIGSOFT Distinguished Paper Award</a>
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616270) **Demystifying the Composition and Code Reuse in Solidity Smart Contracts**
+- [![](https://img.shields.io/badge/FSE-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616270) **Demystifying the Composition and Code Reuse in Solidity Smart Contracts**
   - Kairan Sun, Zhengzi Xu, Chengwei Liu, **Kaixuan Li**, and Yang Liu
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023
   - [https://doi.org/10.1145/3611643.3616270](https://doi.org/10.1145/3611643.3616270)
 
-- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/FSE-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616262) **Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java**
+- [![](https://img.shields.io/badge/FSE-2023-blue?style=flat-square)](https://doi.org/10.1145/3611643.3616262) **Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java**
   - **Kaixuan Li**^, Sen Chen^, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, and Yixiang Chen
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023
   - [https://doi.org/10.1145/3611643.3616262](https://doi.org/10.1145/3611643.3616262)
