@@ -61,15 +61,15 @@ The goal is to provide a structured, continuously updated overview of the fields
 # 📝 Selected Publications
 Notation: * corresponding author, ^ co-first author (as marked in author list). [[Full list]](https://scholar.google.com/citations?user=zmkdR04AAAAJ&hl=en)
 
-- **A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models**
+- [![](https://img.shields.io/badge/Preprint-2025-lightgrey?style=flat-square)](https://arxiv.org/abs/2510.10148) **A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models**
   - Mengyao Zhao, **Kaixuan Li**^, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu
   - [*Preprint: https://arxiv.org/abs/2510.10148*](https://arxiv.org/abs/2510.10148), 2025
 
-- **Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study**
+- [![](https://img.shields.io/badge/Preprint-2025-lightgrey?style=flat-square)](https://arxiv.org/abs/2510.18448) **Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study**
   - Wenjing Dang, **Kaixuan Li**^, Sen Chen, Zhenwei Zhuo, Lyuye Zhang, and Zheli Liu
   - [*Preprint: https://arxiv.org/abs/2510.18448*](https://arxiv.org/abs/2510.18448), 2025
 
-- **VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software**
+- [![](https://img.shields.io/badge/Preprint-2025-lightgrey?style=flat-square)](https://arxiv.org/abs/2506.18050) **VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software**
   - Lyuye Zhang, Jian Zhang, **Kaixuan Li**, Chong Wang, Chengwei Liu, Jiahui Wu, Sen Chen, Yaowen Zheng, and Yang Liu
   - [*Preprint: https://arxiv.org/abs/2506.18050*](https://arxiv.org/abs/2506.18050), 2025
 
