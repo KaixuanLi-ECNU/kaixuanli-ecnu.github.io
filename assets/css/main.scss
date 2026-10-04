@@ -198,6 +198,16 @@ body {
   }
 }
 
+/* X (formerly Twitter) mark as an inline SVG; Font Awesome 5 predates the logo.
+   Sized like a fixed-width Font Awesome icon so it lines up with the others. */
+.icon-x {
+  display: inline-block;
+  width: 1.25em;
+  height: 0.9em;
+  vertical-align: -0.1em;
+  fill: currentColor;
+}
+
 /* Callout box (openings notice under the research summary) */
 .callout {
   margin: 1.1rem 0 1.2rem;
