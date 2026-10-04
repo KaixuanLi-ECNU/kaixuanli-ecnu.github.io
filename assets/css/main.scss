@@ -87,105 +87,350 @@
 
 }
 
-$scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+/* ==========================================================================
+   Typography: scale, measure, section rhythm
+   ========================================================================== */
+
+html {
+  @include breakpoint($large) {
+    font-size: 17px;
+  }
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+body {
+  line-height: 1.55;
+}
+
+/* Column width: wide enough that most publication titles fit on one line. */
+.page__content {
+  max-width: 52rem;
+
+  p, li, dl {
+    font-size: 1rem;
+  }
+
+  /* Line breaking: paragraphs and list items fill each line normally but avoid
+     a lone word on the last line. Browsers without support fall back to normal
+     wrapping. */
+  p {
+    margin-bottom: 0.75em;
+    text-wrap: pretty;
+  }
+
+  li {
+    margin-bottom: 0.4em;
+    text-wrap: pretty;
+  }
+
+  li li {
+    margin-bottom: 0.25em;
+  }
+
+  /* Page title (subpages) */
+  h1 {
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+    font-size: 2rem;
+    line-height: 1.15;
+    border-bottom: 0;
+    text-wrap: balance;
+  }
+
+  /* Section headings */
+  h2 {
+    margin-top: 2.6rem;
+    margin-bottom: 0.8rem;
+    padding-bottom: 0.35rem;
+    font-size: 1.65rem;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    border-bottom: 1px solid $border-color;
+    text-wrap: balance;
+  }
+
+  h2:first-of-type {
+    margin-top: 1.6rem;
+  }
+
+  /* Subsection headings */
+  h3 {
+    margin-top: 1.6rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+
+  /* Headings and anchors stop below the sticky masthead when jumped to. */
+  h1, h2, h3, .anchor {
+    scroll-margin-top: 4.5rem;
+  }
+
+  /* Remove the theme's negative-margin anchor hack now that scroll-margin handles it. */
+  #about-me {
+    margin-top: 0;
+
+    &:before {
+      content: none;
+    }
+  }
+
+  hr {
+    margin: 1.5rem 0;
+    border: 0;
+    border-top: 1px solid $border-color;
+  }
+}
+
+/* Sidebar name is the page's h1 on the homepage; keep its visual size. */
+.sidebar .author__name {
+  margin: 10px 0 0;
+  font-family: $header-font-family;
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* Hyphenated compounds in publication titles stay on one line on wide screens
+   (spans are added by a small script in scripts.html). */
+@media (min-width: 37.5em) {
+  .nb {
+    white-space: nowrap;
+  }
+}
+
+/* Callout box (openings notice under the research summary) */
+.callout {
+  margin: 1.1rem 0 1.2rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid $border-color;
+  border-left: 4px solid #1864ab;
+  border-radius: 6px;
+  background: #f3efe6;
+
+  p {
+    margin: 0;
+  }
+
+  p + p {
+    margin-top: 0.5em;
+  }
+}
+
+/* ==========================================================================
+   Components: venue pills, award pills, news dates
+   ========================================================================== */
+
+/* Venue + year pill (replaces shields.io badge images) */
+.venue {
+  display: inline-flex;
+  align-items: stretch;
+  margin-right: 0.3em;
+  font-family: $sans-serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: 0.01em;
+  border-radius: 3px;
+  overflow: hidden;
+  vertical-align: 0.15em;
+  text-decoration: none;
+  white-space: nowrap;
+
+  span {
+    padding: 0.32em 0.5em;
+  }
+
+  span:first-child {
+    background: #50575e;
+    color: #fff;
+  }
+
+  span:last-child {
+    background: #1864ab;
+    color: #fff;
+  }
+
+  &--preprint span:last-child {
+    background: #e6e1d6;
+    color: #3d3a34;
+  }
+}
+
+a.venue:hover,
+a.venue:focus {
+  text-decoration: none;
+  filter: brightness(1.12);
+}
+
+/* Award / distinction pill */
+.award {
+  display: inline-block;
+  padding: 0.1em 0.55em;
+  border-radius: 4px;
+  background: #e8f0fe;
+  color: #174ea6;
+  font-weight: 700;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    background: #d7e4fb;
+    text-decoration: none;
+  }
+}
+
+/* News date label */
+.news-date {
+  display: inline-block;
+  margin-right: 0.45em;
+  color: #cf3d1a; /* 4.9:1 on white */
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Keep remaining Shields.io badges (GitHub stars) in line with the text */
+.page__content p img[src*="img.shields.io"],
+.page__content li img[src*="img.shields.io"] {
+  max-height: 1.4em;
+  width: auto;
+  vertical-align: middle;
+}
+
+/* Long unbroken strings (bare URLs, DOIs) must wrap instead of widening the
+   layout viewport on phones, which otherwise makes the whole page zoom out. */
+.page__content {
+  overflow-wrap: break-word;
+}
+.page__content a,
+.page__content code {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* Media and tables never exceed the content column */
+.page__content img {
+  max-width: 100%;
+  height: auto;
+}
+.page__content table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+.page__content iframe {
+  max-width: 100%;
 }
 
 /* ==========================================================================
    Collapsible news block
    ========================================================================== */
 .news-more {
-    margin-top: 0.5em;
+  margin-top: 0.5em;
 
-    summary {
-        cursor: pointer;
-        display: inline-block;
-        padding: 0.25em 0.75em;
-        font-size: 0.9em;
-        color: $info-color;
-        border: 1px solid $lighter-gray;
-        border-radius: $border-radius;
-        user-select: none;
-        list-style: none;
+  summary {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    padding: 0.35em 0.9em;
+    font-size: 0.9rem;
+    color: $info-color;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    user-select: none;
+    list-style: none;
 
-        &::-webkit-details-marker { display: none; }
-        &:hover { background: $lighter-gray; }
-    }
+    &::-webkit-details-marker { display: none; }
+    &:hover { background: #f1ede4; }
+    &:focus-visible { outline: 2px solid $info-color; outline-offset: 2px; }
+  }
 
-    &[open] summary { margin-bottom: 0.5em; }
+  &[open] summary { margin-bottom: 0.5em; }
+}
+
+/* ==========================================================================
+   Motion: content is complete at rest; honour reduced-motion
+   ========================================================================== */
+#main,
+.masthead,
+.breadcrumbs,
+.page__hero,
+.page__hero--overlay {
+  animation: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
 /* ==========================================================================
    Mobile / responsive refinements
    ========================================================================== */
-
-/* Keep Shields.io badges from scaling up and breaking the line awkwardly */
-.page__content p img[src*="img.shields.io"],
-.page__content li img[src*="img.shields.io"] {
-    max-height: 1.4em;
-    width: auto;
-    vertical-align: middle;
-}
-
 @media (max-width: 37.5em) { /* ~600px */
-    #main {
-        padding-left: 0.75em;
-        padding-right: 0.75em;
-        margin-top: 0.5em;
+  #main {
+    padding-left: 1em;
+    padding-right: 1em;
+    margin-top: 0.5em;
+  }
+
+  .page__content {
+    h1 { font-size: 1.7rem; }
+    h2 { font-size: 1.45rem; margin-top: 2.1rem; }
+    h2:first-of-type { margin-top: 1.2rem; }
+    h3 { font-size: 1.15rem; }
+    p, li, dl { font-size: 1rem; }
+  }
+
+  /* Reduce list indentation on narrow screens */
+  .page__content ul { padding-inline-start: 1.1em; }
+  .page__content li ul { padding-inline-start: 1em; }
+
+  /* Shrink sidebar on mobile so hero + content appear sooner */
+  .sidebar .author__avatar img {
+    max-width: 120px;
+    min-width: 60px;
+  }
+  .sidebar .author__name { font-size: 1.3rem; }
+
+  /* 44px touch targets for the social icon row and the news toggle */
+  .author__urls_sm {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    padding: 0;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
     }
+  }
 
-    .page__content {
-        h1 { font-size: 1.6em; margin-top: 1.2em; padding-bottom: 0.35em; }
-        h2 { font-size: 1.25em; }
-        h3 { font-size: 1.1em; }
-        p, li, dl { font-size: 0.95em; }
-    }
+  .news-more summary {
+    min-height: 44px;
+    padding: 0 1em;
+  }
 
-    /* Reduce list indentation on narrow screens */
-    .page__content ul { padding-inline-start: 1.1em; }
-    .page__content li ul { padding-inline-start: 1em; }
+  /* ClustrMaps: keep contained */
+  #clustrmaps-container {
+    width: 160px !important;
+    height: 120px !important;
+  }
 
-    /* Nested publication bullets: tighten spacing */
-    .page__content li li { margin-bottom: 0.25em; }
-
-    /* Shrink sidebar on mobile so hero + content appear sooner */
-    .sidebar .author__avatar img {
-        max-width: 120px;
-        min-width: 60px;
-    }
-    .sidebar .author__name { font-size: 1.3em; }
-
-    /* ClustrMaps: keep contained */
-    #clustrmaps-container {
-        width: 160px !important;
-        height: 120px !important;
-    }
-
-    /* News entries: a touch tighter */
-    h1 + ul li, h1 + p + ul li { margin-bottom: 0.35em; }
+  /* News entries: a touch tighter */
+  h2 + ul li { margin-bottom: 0.35em; }
 }
 
 /* Very narrow phones */
 @media (max-width: 22.5em) { /* ~360px */
-    .page__content {
-        h1 { font-size: 1.4em; }
-        p, li { font-size: 0.92em; }
-    }
+  .page__content {
+    h2 { font-size: 1.3rem; }
+    p, li { font-size: 0.95rem; }
+  }
 }

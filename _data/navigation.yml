@@ -3,31 +3,28 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "CV"
-    url: "/files/Kaixuan_Li_CV.pdf"
-
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
     
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
 
     
   - title: "Academic Services"
-    url: "/#-academic-services"
+    url: "/#academic-services"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
   - title: "Research Notes"
     url: "/research-notes/"

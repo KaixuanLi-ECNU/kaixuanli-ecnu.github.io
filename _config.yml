@@ -11,8 +11,7 @@ description              : "Kaixuan Li (李凯旋) is a postdoctoral research fe
 keywords                 : "Kaixuan Li, 李凯旋, NTU, software security, program analysis, static analysis, SAST, vulnerability detection, large language models, LLM for security, smart contract security, software engineering research"
 url                      : "https://kaixuanli-ecnu.github.io"
 repository               : "KaixuanLi-ECNU/kaixuanli-ecnu.github.io"
-google_scholar_stats_use_cdn : true
-og_image                 : "images/vienna.JPG"
+og_image                 : "images/avatar.jpg"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -25,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kaixuan Li"
-  avatar           : "/images/vienna.JPG"
+  avatar           : "/images/avatar.jpg"
   # bio              : "Research fellow at Nanyang Technological University"
   location         : "Singapore"
   employer         :

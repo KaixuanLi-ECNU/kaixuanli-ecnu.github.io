@@ -14,7 +14,7 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : "Libre Baskerville", Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$sans-serif                 : "Inter", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -33,7 +33,7 @@ $garamond                   : Garamond, serif;
 $libre-baskerville          : "Libre Baskerville", Georgia, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
+$header-font-family         : "Source Serif 4", Georgia, "Times New Roman", serif;
 $caption-font-family        : $serif;
 
 /* type scale */
@@ -57,12 +57,12 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+$body-color                 : #fbf9f4;
+$background-color           : #fbf9f4; // warm off-white
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #1d1d1b; // near-black with a warm cast, for the cream background
+$border-color               : #e6e1d6; // warm rule colour that reads on the cream background
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -98,8 +98,8 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : #3a3f44;
+$masthead-link-color-hover  : #2f353a;
 
 
 /*

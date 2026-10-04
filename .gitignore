@@ -7,4 +7,4 @@ push.sh
 vendor/
 
 # Claude Code local state
-.claude/
+CV/

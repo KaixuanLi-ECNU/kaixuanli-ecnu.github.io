@@ -1,4 +1,45 @@
 <script src="/assets/js/main.min.js"></script>
+<script>
+  // External links open in a new tab; same-site links stay in this one.
+  (function () {
+    var here = window.location.hostname;
+    document.querySelectorAll('a[href]').forEach(function (a) {
+      if (a.hostname && a.hostname !== here && /^https?:/.test(a.protocol)) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener');
+      }
+    });
+  })();
+  // Keep hyphenated compounds in publication titles from breaking at the hyphen.
+  (function () {
+    document.querySelectorAll('#selected-publications ~ ul > li > strong').forEach(function (el) {
+      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+      var nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      nodes.forEach(function (t) {
+        if (!/\S-\S/.test(t.nodeValue)) return;
+        var frag = document.createDocumentFragment();
+        t.nodeValue.split(/(\S+-\S+)/).forEach(function (part) {
+          if (!part) return;
+          if (/\S+-\S+/.test(part)) {
+            var s = document.createElement('span');
+            s.className = 'nb';
+            s.textContent = part;
+            frag.appendChild(s);
+          } else {
+            frag.appendChild(document.createTextNode(part));
+          }
+        });
+        t.parentNode.replaceChild(frag, t);
+      });
+    });
+  })();
+  // Re-bind smooth scrolling with an offset that clears the sticky masthead.
+  $(function () {
+    var mast = document.querySelector('.masthead');
+    var offset = (mast ? mast.offsetHeight : 56) + 16;
+    $("a").smoothScroll({ offset: -offset });
+  });
+</script>
 
 {% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}
