@@ -77,13 +77,13 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 
 ----
 
-- <span class="venue"><span>TIFS</span><span>2026</span></span> **Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources**
+- <a class="venue" href="https://doi.org/10.1109/TIFS.2026.3744620"><span>TIFS</span><span>2026</span></a> **Synchronizing Key Aspects: Enhancing Vulnerability PoC Reports from Multiple Sources**
   - Wenjing Dang, Lyuye Zhang, Lingxiao Wang, **Kaixuan Li**, Mengyao Zhao, Xiaohong Li, and Sen Chen
-  - *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026 (to appear)
+  - *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026 · [DOI](https://doi.org/10.1109/TIFS.2026.3744620) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11740712)
 
-- <span class="venue"><span>ASE</span><span>2026</span></span> **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
+- <a class="venue" href="https://doi.org/10.1145/3832783.3837544"><span>ASE</span><span>2026</span></a> **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
   - Meilin Li^, **Kaixuan Li**^, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
-  - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2026 (to appear) · [PDF](./papers/ASE26_SAFuzzer.pdf)
+  - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2026 · [DOI](https://doi.org/10.1145/3832783.3837544) · [PDF](./papers/ASE26_SAFuzzer.pdf)
 
 - <a class="venue" href="https://doi.org/10.1145/3832125"><span>ISSTA</span><span>2026</span></a> **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
   - Chengyue Liu, Zhengzi Xu, Lyuye Zhang, Jiahui Wu, **Kaixuan Li**, and Yang Liu
@@ -99,9 +99,9 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - Zong Cao, Yuqiang Sun, Zhengzi Xu, **Kaixuan Li**, Yeqi Fu, Yiran Zhang, Ziqiao Kong, and Yang Liu
   - *International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2026)*, 2026 · [ACM DL](https://dl.acm.org/doi/10.1145/3798272)
 
-- <span class="venue"><span>FSE</span><span>2026</span></span> **Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale**
+- <a class="venue" href="https://doi.org/10.1145/3808096"><span>FSE</span><span>2026</span></a> **Understanding the Limitations of C/C++ Binary Third-Party Library Detection Tool: An Empirical Study at Scale**
   - Chengyue Liu, Zhengzi Xu, **Kaixuan Li**, Jiahui Wu, Sihao Qiu, Siyuan Li, Siyang Xiong, Yang Xiao, and Yang Liu
-  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 (to appear)
+  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 · [DOI](https://doi.org/10.1145/3808096)
 
 - <a class="venue" href="https://doi.org/10.1145/3797065"><span>FSE</span><span>2026</span></a> **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
@@ -111,9 +111,9 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
   - *IEEE Transactions on Software Engineering (TSE)*, 2026 (Early Access, pp. 1-17) · [DOI](https://doi.org/10.1109/TSE.2026.3678424)
 
-- <a class="venue" href="https://arxiv.org/abs/2511.06762"><span>ICSE</span><span>2026</span></a> **Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects**
+- <a class="venue" href="https://doi.org/10.1145/3744916.3773233"><span>ICSE</span><span>2026</span></a> **Minimizing Breaking Changes and Redundancy in Mitigating Technical Lag for Java Projects**
   - Rui Lu, Lyuye Zhang, **Kaixuan Li**\*, Min Zhang, and Yixiang Chen
-  - *ACM/IEEE International Conference on Software Engineering (ICSE)*, 2026 · [arXiv](https://arxiv.org/abs/2511.06762)
+  - *ACM/IEEE International Conference on Software Engineering (ICSE)*, 2026 · [DOI](https://doi.org/10.1145/3744916.3773233) · [arXiv](https://arxiv.org/abs/2511.06762)
 
 - <a class="venue" href="https://blackhat.com/us-25/briefings/schedule/#let-llm-learn-when-your-static-analyzer-actually-gets-it-46444"><span>BlackHat USA</span><span>2025</span></a> **Let LLM Learn: When Your Static Analyzer Actually 'Gets It'**
   - Zong Cao, Zhengzi Xu, Yeqi Fu, Yuqiang Sun, **Kaixuan Li**, and Yang Liu
@@ -132,9 +132,9 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025 · [DOI](https://doi.org/10.1109/TSE.2025.3590108) · [arXiv](https://arxiv.org/abs/2403.06838)
   - ✨ *Invited to the [ICSE 2026 Journal-First track](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers).*
 
-- <a class="venue" href="https://arxiv.org/abs/2410.20740"><span>TSE</span><span>2024</span></a> **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
+- <a class="venue" href="https://doi.org/10.1109/TSE.2024.3488041"><span>TSE</span><span>2024</span></a> **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
   - Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie
-  - *IEEE Transactions on Software Engineering (TSE)*, 2024 · [arXiv](https://arxiv.org/abs/2410.20740)
+  - *IEEE Transactions on Software Engineering (TSE)*, 2024 · [DOI](https://doi.org/10.1109/TSE.2024.3488041) · [arXiv](https://arxiv.org/abs/2410.20740)
 
 - <a class="venue" href="https://doi.org/10.1145/3650212.3680305"><span>ISSTA</span><span>2024</span></a> **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**
   - **Kaixuan Li**, Jian Zhang, Sen Chen, Han Liu, Yang Liu, and Yixiang Chen
@@ -218,7 +218,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
 ## Honors and Awards
 
 * [ACM SIGSOFT Distinguished Paper Award, ISSTA 2026](https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/34/Beyond-Similarity-Scores-Evidence-Based-Third-Party-Library-Detection-for-C-C-Bina), 2026.
-* Doctoral Dissertation Incentive Program, CCF Technical Committee on Software Engineering (TCSE)（中国计算机学会软件工程专业委员会博士学位论文激励计划）, 2026.
+* [Doctoral Dissertation Incentive Program, CCF Technical Committee on Software Engineering (TCSE)（中国计算机学会软件工程专业委员会博士学位论文激励计划）](/images/ChinaSoft2026_TCSE_Dissertation.jpg), 2026.
 * Z.ai Cyber Security Partnership Program, 2026.
 * Gemini Academic Program Award from Google Cloud, 2026. (Project: *Reflective Cyber Reasoning*)
 * Shanghai Association of Artificial Intelligence (SAAI) Young Outstanding Paper Award（上海市人工智能学会青年科技论文奖）, 2026.
