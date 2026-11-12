@@ -57,18 +57,18 @@ The goal is to provide a structured, continuously updated overview of the fields
 
 
 ## Selected Publications
-Notation: * corresponding author, ^ co-first author (as marked in author list). [[Full list]](https://scholar.google.com/citations?user=zmkdR04AAAAJ&hl=en)
+Notation: * corresponding author (as marked in author list). [[Full list]](https://scholar.google.com/citations?user=zmkdR04AAAAJ&hl=en)
 
 - <a class="venue venue--preprint" href="https://arxiv.org/abs/2609.33547"><span>Preprint</span><span>2026</span></a> **Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers**
   - **Kaixuan Li**, Bozhi Wu, Jian Zhang, Peixin Wang, Ting Su, and Yang Liu
   - *Preprint*, 2026 · [arXiv](https://arxiv.org/abs/2609.33547)
 
 - <a class="venue venue--preprint" href="https://arxiv.org/abs/2510.10148"><span>Preprint</span><span>2025</span></a> **A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models**
-  - Mengyao Zhao, **Kaixuan Li**^, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu
+  - Mengyao Zhao, **Kaixuan Li**, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu
   - *Preprint*, 2025 · [arXiv](https://arxiv.org/abs/2510.10148)
 
 - <a class="venue venue--preprint" href="https://arxiv.org/abs/2510.18448"><span>Preprint</span><span>2025</span></a> **Real-World Usability of Vulnerability Proof-of-Concepts: A Comprehensive Study**
-  - Wenjing Dang, **Kaixuan Li**^, Sen Chen, Zhenwei Zhuo, Lyuye Zhang, and Zheli Liu
+  - Wenjing Dang, **Kaixuan Li**, Sen Chen, Zhenwei Zhuo, Lyuye Zhang, and Zheli Liu
   - *Preprint*, 2025 · [arXiv](https://arxiv.org/abs/2510.18448)
 
 - <a class="venue venue--preprint" href="https://arxiv.org/abs/2506.18050"><span>Preprint</span><span>2025</span></a> **VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software**
@@ -82,7 +82,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *IEEE Transactions on Information Forensics and Security (TIFS)*, 2026 · [DOI](https://doi.org/10.1109/TIFS.2026.3744620) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11740712)
 
 - <a class="venue" href="https://doi.org/10.1145/3832783.3837544"><span>ASE</span><span>2026</span></a> **Testing Static Analyzers via Semantic-Preserving Mutators Learned from Real-World Refactoring Practice**
-  - Meilin Li^, **Kaixuan Li**^, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
+  - Meilin Li, **Kaixuan Li**, Zifan Xie, Shiyu Qiu, Ming Wen, Maolin Sun, and Hongyu Zhang
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2026 · [DOI](https://doi.org/10.1145/3832783.3837544) · [PDF](./papers/ASE26_SAFuzzer.pdf)
 
 - <a class="venue" href="https://doi.org/10.1145/3832125"><span>ISSTA</span><span>2026</span></a> **Beyond Similarity Scores: Evidence-Based Third-Party Library Detection for C/C++ Binaries**
@@ -128,12 +128,12 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *ACM/IEEE International Conference on Automated Software Engineering (ASE)*, 2025 · [DOI](https://doi.org/10.1109/ASE63991.2025.00017)
 
 - <a class="venue" href="https://doi.org/10.1109/TSE.2025.3590108"><span>TSE</span><span>2025</span></a> **ACFix: Guiding LLMs With Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**
-  - Lyuye Zhang^, **Kaixuan Li**^, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
+  - Lyuye Zhang, **Kaixuan Li**, Kairan Sun, Daoyuan Wu, Ye Liu, Haoye Tian, and Yang Liu
   - *IEEE Transactions on Software Engineering (TSE)*, vol. 51, no. 9, pp. 2512-2532, 2025 · [DOI](https://doi.org/10.1109/TSE.2025.3590108) · [arXiv](https://arxiv.org/abs/2403.06838)
   - ✨ *Invited to the [ICSE 2026 Journal-First track](https://conf.researchr.org/track/icse-2026/icse-2026-journal-first-papers).*
 
 - <a class="venue" href="https://doi.org/10.1109/TSE.2024.3488041"><span>TSE</span><span>2024</span></a> **A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android**
-  - Jingyun Zhu^, **Kaixuan Li**^, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie
+  - Jingyun Zhu, **Kaixuan Li**, Sen Chen, Lingling Fan, Junjie Wang, and Xiaofei Xie
   - *IEEE Transactions on Software Engineering (TSE)*, 2024 · [DOI](https://doi.org/10.1109/TSE.2024.3488041) · [arXiv](https://arxiv.org/abs/2410.20740)
 
 - <a class="venue" href="https://doi.org/10.1145/3650212.3680305"><span>ISSTA</span><span>2024</span></a> **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**
@@ -158,7 +158,7 @@ Notation: * corresponding author, ^ co-first author (as marked in author list). 
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023 · [DOI](https://doi.org/10.1145/3611643.3616270)
 
 - <a class="venue" href="https://doi.org/10.1145/3611643.3616262"><span>FSE</span><span>2023</span></a> **Comparison and Evaluation on Static Application Security Testing (SAST) Tools for Java**
-  - **Kaixuan Li**^, Sen Chen^, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, and Yixiang Chen
+  - **Kaixuan Li**, Sen Chen, Lingling Fan, Ruitao Feng, Han Liu, Chengwei Liu, Yang Liu, and Yixiang Chen
   - *ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)*, 2023 · [DOI](https://doi.org/10.1145/3611643.3616262)
   - ✨ *Highlighted at [OWASP Global AppSec USA 2025](https://owaspglobalappsecusa2025.sched.com/event/28BYv/benchmarking-scanner-blind-spots-how-runtime-context-uncovers-hidden-vulns) by Microsoft Identity.*
 
