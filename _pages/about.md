@@ -61,7 +61,7 @@ Notation: * corresponding author (as marked in author list). [[Full list]](https
 
 - <a class="venue venue--preprint" href="https://arxiv.org/abs/2609.33547"><span>Preprint</span><span>2026</span></a> **Neuro-Symbolic Indirect-Call Analysis under Opaque Pointers**
   - **Kaixuan Li**, Bozhi Wu, Jian Zhang, Peixin Wang, Ting Su, and Yang Liu
-  - *Preprint*, 2026 · [arXiv](https://arxiv.org/abs/2609.33547)
+  - *Preprint*, 2026 · [arXiv](https://arxiv.org/abs/2609.33547) · [Webpage](https://marklee131.github.io/Facet/)
 
 - <a class="venue venue--preprint" href="https://arxiv.org/abs/2510.10148"><span>Preprint</span><span>2025</span></a> **A Systematic Study on Generating Web Vulnerability Proof-of-Concepts Using Large Language Models**
   - Mengyao Zhao, **Kaixuan Li**, Lyuye Zhang, Wenjing Dang, Chenggong Ding, Sen Chen, and Zheli Liu
@@ -105,7 +105,7 @@ Notation: * corresponding author (as marked in author list). [[Full list]](https
 
 - <a class="venue" href="https://doi.org/10.1145/3797065"><span>FSE</span><span>2026</span></a> **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**
   - **Kaixuan Li**, Jian Zhang, Chong Wang, Sen Chen, Zong Cao, Min Zhang, and Yang Liu
-  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 · [DOI](https://doi.org/10.1145/3797065) · [PDF](./papers/FSE26_GadgetHunter.pdf)
+  - *ACM International Conference on the Foundations of Software Engineering (FSE)*, 2026 · [DOI](https://doi.org/10.1145/3797065) · [PDF](./papers/FSE26_GadgetHunter.pdf) · [Webpage](https://marklee131.github.io/GadgetHunter/)
 
 - <a class="venue" href="https://doi.org/10.1109/TSE.2026.3678424"><span>TSE</span><span>2026</span></a> **DeepFWI: Identifying Bug-Sensitive Warnings with Multi-Modal Code-Warning Semantics**
   - Han Liu, Jian Zhang, Cen Zhang, Xiaohan Zhang, **Kaixuan Li**, Sen Chen, Shang-Wei Lin, Yixiang Chen, Xinghua Li, and Yang Liu
